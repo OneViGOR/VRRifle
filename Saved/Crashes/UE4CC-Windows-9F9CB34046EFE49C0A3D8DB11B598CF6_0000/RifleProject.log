@@ -1,0 +1,1106 @@
+﻿Log file open, 12/03/18 16:03:08
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RifleProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.372206
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.482s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.049s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.12.03-16.03.11:755][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-16.03.11:756][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.12.03-16.03.11:899][  0]LogHAL: Display: Platform has ~ 16 GB [17116696576 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.12.03-16.03.11:970][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.12.03-16.03.11:970][  0]LogInit: Going up to parent DeviceProfile []
+[2018.12.03-16.03.12:030][  0]LogInit: Computer: VIGOR-VANQUISH
+[2018.12.03-16.03.12:030][  0]LogInit: User: James
+[2018.12.03-16.03.12:030][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.12.03-16.03.12:030][  0]LogInit: High frequency timer resolution =3.514612 MHz
+[2018.12.03-16.03.12:030][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2018.12.03-16.03.12:030][  0]LogMemory: Platform Memory Stats for Windows
+[2018.12.03-16.03.12:030][  0]LogMemory: Process Physical Memory: 105.63 MB used, 105.63 MB peak
+[2018.12.03-16.03.12:030][  0]LogMemory: Process Virtual Memory: 94.97 MB used, 94.97 MB peak
+[2018.12.03-16.03.12:030][  0]LogMemory: Physical Memory: 7106.21 MB used,  9217.54 MB free, 16323.75 MB total
+[2018.12.03-16.03.12:030][  0]LogMemory: Virtual Memory: 4658.72 MB used,  9217.54 MB free, 134217728.00 MB total
+[2018.12.03-16.03.12:900][  0]LogInit: Using OS detected language (en-GB).
+[2018.12.03-16.03.12:900][  0]LogInit: Using OS detected locale (en-GB).
+[2018.12.03-16.03.12:974][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2018.12.03-16.03.15:009][  0]LogStreaming: Display: Took  2.109s to InitEngineTextLocalization.
+[2018.12.03-16.03.15:020][  0]LogInit: Setting process to per monitor DPI aware
+[2018.12.03-16.03.15:887][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.12.03-16.03.15:888][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.12.03-16.03.21:450][  0]LogD3D11RHI: D3D11 adapters:
+[2018.12.03-16.03.21:497][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2018.12.03-16.03.21:497][  0]LogD3D11RHI:       6097/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.12.03-16.03.21:499][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.12.03-16.03.21:499][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.12.03-16.03.21:499][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.12.03-16.03.21:528][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.12.03-16.03.21:528][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2018.12.03-16.03.21:544][  0]LogWindows: EnumDisplayDevices:
+[2018.12.03-16.03.21:544][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2018.12.03-16.03.21:544][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2018.12.03-16.03.21:545][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2018.12.03-16.03.21:545][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.12.03-16.03.21:545][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2018.12.03-16.03.21:545][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2018.12.03-16.03.21:549][  0]LogD3D11RHI:   Driver Version: 398.82 (internal:24.21.13.9882, unified:398.82)
+[2018.12.03-16.03.21:549][  0]LogD3D11RHI:      Driver Date: 7-30-2018
+[2018.12.03-16.03.21:549][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2018.12.03-16.03.21:589][  0]LogD3D11RHI: Async texture creation enabled
+[2018.12.03-16.03.21:871][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.12.03-16.03.22:009][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Intermediate/Shaders/WorkingDirectory/9508/).
+[2018.12.03-16.03.22:009][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/James/AppData/Local/Temp/UnrealShaderWorkingDir/C183397C49AD1AFDA29727972E5274C1/'.
+[2018.12.03-16.03.23:005][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.12.03-16.03.23:035][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.12.03-16.03.23:056][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.12.03-16.03.23:080][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.12.03-16.03.23:164][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.12.03-16.03.23:203][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.12.03-16.03.23:228][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.12.03-16.03.23:249][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.12.03-16.03.23:269][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:393][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.12.03-16.03.23:397][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.12.03-16.03.23:543][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-16.03.23:543][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.12.03-16.03.23:567][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-16.03.23:567][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.12.03-16.03.23:581][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.12.03-16.03.23:595][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.12.03-16.03.23:630][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.12.03-16.03.23:653][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.12.03-16.03.23:674][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.12.03-16.03.23:674][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.12.03-16.03.24:490][  0]LogXGEController: Cleaning working directory: C:/Users/James/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.12.03-16.03.24:491][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.12.03-16.03.24:491][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.12.03-16.03.24:491][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.12.03-16.03.29:186][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.12.03-16.03.29:722][  0]LogDerivedDataCache: Loaded boot cache 0.52s 71MB C:/Users/James/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.03-16.03.29:722][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/James/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.12.03-16.03.29:722][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/James/Documents/Unreal Projects/RifleProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.12.03-16.03.29:722][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.12.03-16.03.29:722][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/James/Documents/Unreal Projects/RifleProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.12.03-16.03.29:722][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.12.03-16.03.29:789][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.12.03-16.03.29:802][  0]LogDerivedDataCache: Using Local data cache path C:/Users/James/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.12.03-16.03.29:802][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.12.03-16.03.29:802][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.12.03-16.03.29:995][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.12.03-16.03.30:073][  0]LogSlate: Using FreeType 2.6.0
+[2018.12.03-16.03.30:167][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.12.03-16.03.32:263][  0]LogAssetRegistry: FAssetRegistry took 0.0324 seconds to start up
+[2018.12.03-16.03.38:858][  0]LogInit: Selected Device Profile: [Windows]
+[2018.12.03-16.03.43:299][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.12.03-16.03.43:612][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.12.03-16.03.43:612][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.12.03-16.03.43:625][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.12.03-16.03.43:625][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.12.03-16.03.44:926][  0]LogNetVersion: RifleProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2737303330)
+[2018.12.03-16.03.52:732][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.190138 seconds
+[2018.12.03-16.03.52:777][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.12.03-16.03.52:777][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2018.12.03-16.03.52:777][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.12.03-16.04.26:261][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.12.03-16.04.26:280][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.12.03-16.04.27:966][  0]SourceControl: Source control is disabled
+[2018.12.03-16.04.27:966][  0]SourceControl: Source control is disabled
+[2018.12.03-16.04.28:033][  0]SourceControl: Source control is disabled
+[2018.12.03-16.04.28:042][  0]SourceControl: Source control is disabled
+[2018.12.03-16.04.29:221][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.12.03-16.04.29:433][  0]LogOcInput: OculusInput pre-init called
+[2018.12.03-16.04.30:335][  0]LogEngine: Initializing Engine...
+[2018.12.03-16.04.30:405][  0]LogHMD: Oculus plugin initialized. Version: 4.20.3-4369336+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2018.12.03-16.04.30:433][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.007 s
+[2018.12.03-16.04.30:433][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-16.04.30:433][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-16.04.30:434][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.001 s
+[2018.12.03-16.04.33:199][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.12.03-16.04.33:436][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.12.03-16.04.33:631][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-16.04.33:685][  0]LogInit: FAudioDevice initialized.
+[2018.12.03-16.04.33:685][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.12.03-16.04.34:551][  0]LogDerivedDataCache: Saved boot cache 0.87s 86MB C:/Users/James/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.12.03-16.04.34:561][  0]LogInit: Texture streaming: Enabled
+[2018.12.03-16.04.34:693][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.12.03-16.04.34:851][  0]LogInit: Transaction tracking system initialized
+[2018.12.03-16.04.35:176][  0]BlueprintLog: New page: Editor Load
+[2018.12.03-16.04.36:698][  0]LocalizationService: Localization service is disabled
+[2018.12.03-16.04.41:932][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/RifleProject/Content/' took 0.03s
+[2018.12.03-16.04.41:932][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.12.03-16.04.41:941][  0]LogCook: Display: Mobile HDR setting 1
+[2018.12.03-16.04.41:951][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.12.03-16.04.41:951][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.12.03-16.04.41:951][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.12.03-16.04.41:952][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.12.03-16.04.41:952][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.12.03-16.04.46:177][  0]SourceControl: Source control is disabled
+[2018.12.03-16.04.46:201][  0]Cmd: MAP LOAD FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.12.03-16.04.46:202][  0]LightingResults: New page: Lighting Build
+[2018.12.03-16.04.46:338][  0]MapCheck: New page: Map Check
+[2018.12.03-16.04.46:338][  0]LightingResults: New page: Lighting Build
+[2018.12.03-16.04.50:698][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.04.51:088][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.12.03-16.04.51:197][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.12.03-16.04.51:256][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 59.219ms to complete.
+[2018.12.03-16.04.51:256][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 5.072
+[2018.12.03-16.04.52:349][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.04.52:357][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.04.52:364][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.04.52:372][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.04.52:481][  0]LogCollectionManager: Loaded 0 collections in 0.019228 seconds
+[2018.12.03-16.04.52:597][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/RifleProject/Saved/Collections/' took 0.01s
+[2018.12.03-16.04.52:597][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/RifleProject/Content/Developers/James/Collections/' took 0.01s
+[2018.12.03-16.04.52:597][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/RifleProject/Content/Collections/' took 0.01s
+[2018.12.03-16.04.52:597][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.12.03-16.04.52:613][  0]LogContentBrowser: Native class hierarchy populated in 0.0121 seconds. Added 2572 classes and 603 folders.
+[2018.12.03-16.04.52:667][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.03-16.04.54:635][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.12.03-16.04.54:696][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2018.12.03-16.04.54:768][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.12.03-16.04.55:523][  0]LogSlate: Took 0.017134 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.12.03-16.04.55:558][  0]LogSlate: Took 0.022390 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.12.03-16.04.55:637][  0]LogSlate: Took 0.011921 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.12.03-16.04.56:186][  0]LogRenderer: Reallocating scene render targets to support 1028x580 Format 26 NumSamples 1 (Frame:1).
+[2018.12.03-16.04.56:680][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.12.03-16.04.56:680][  0]LogLoad: (Engine Initialization) Total time: 132.05 seconds
+[2018.12.03-16.04.56:680][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.12.03-16.04.56:729][  0]LogOcInput: OculusInput is initialized
+[2018.12.03-16.04.56:857][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.12.03-16.04.57:020][  0]LogSlate: Took 0.021379 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-16.04.57:100][  1]LogAssetRegistry: Asset discovery search completed in 84.8612 seconds
+[2018.12.03-16.04.57:102][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.12.03-16.04.57:102][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000047 seconds (updated 0 objects)
+[2018.12.03-16.04.58:085][  4]LogSlate: Took 0.000281 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.12.03-16.05.14:082][887]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.05.14:227][899]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rifle/Rifle.Rifle
+[2018.12.03-16.05.15:614][899]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.12.03-16.05.17:310][899]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rifle/Handle.Handle
+[2018.12.03-16.05.17:637][899]LogSlate: Took 0.043567 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.12.03-16.05.17:985][900]LogSlate: Took 0.021400 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.12.03-16.05.54:756][963]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-16.05.54:796][963]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.05.54:796][963]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.05.54:796][963]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.05.56:050][963]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:05:56)
+[2018.12.03-16.05.56:050][963]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.05.56:108][963]LogPlayLevel: PIE: StaticDuplicateObject took: (0.057819s)
+[2018.12.03-16.05.56:108][963]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.05.56:108][963]LogPlayLevel: PIE: World Init took: (0.000779s)
+[2018.12.03-16.05.56:108][963]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.058808s)
+[2018.12.03-16.05.56:169][963]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.05.56:195][963]LogInit: FAudioDevice initialized.
+[2018.12.03-16.05.56:227][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.05.56:333][963]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.05.56:373][963]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.05.56:373][963]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.05.56:389][963]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.05.56
+[2018.12.03-16.05.56:389][963]LogWorld: Bringing up level for play took: 0.001111
+[2018.12.03-16.05.56:500][963]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2018.12.03-16.05.56:642][963]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.948
+[2018.12.03-16.05.56:646][963]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.05.56:647][963]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.05.56:721][963]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.05.56:721][963]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.05.56:721][963]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.05.56:721][963]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.05.56:721][963]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.05.56:721][963]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.05.56:721][963]LogRenderer: Reallocating scene render targets to support 2720x1600 Format 26 NumSamples 1 (Frame:1).
+[2018.12.03-16.05.56:721][963]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.05.59:158][143]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.05.59:239][143]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.05.59:285][143]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-16.05.59:296][143]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.05.59:362][143]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.05.59:362][143]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.05.59:428][144]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2018.12.03-16.05.59:428][144]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.06.01:838][413]LogEditorViewport: Clicking on Actor (LMB): Rifle_C (Rifle)
+[2018.12.03-16.06.25:534][ 79]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.06.25:618][ 88]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-16.06.25:660][ 88]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.06.25:660][ 88]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.06.25:660][ 88]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.06.25:755][ 88]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:06:25)
+[2018.12.03-16.06.25:755][ 88]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.06.25:760][ 88]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005059s)
+[2018.12.03-16.06.25:760][ 88]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.06.25:761][ 88]LogPlayLevel: PIE: World Init took: (0.000615s)
+[2018.12.03-16.06.25:761][ 88]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.005834s)
+[2018.12.03-16.06.25:802][ 88]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.06.25:811][ 88]LogInit: FAudioDevice initialized.
+[2018.12.03-16.06.25:827][ 88]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.06.25:931][ 88]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.06.25:962][ 88]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.06.25:962][ 88]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.06.25:963][ 88]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.06.25
+[2018.12.03-16.06.25:963][ 88]LogWorld: Bringing up level for play took: 0.001062
+[2018.12.03-16.06.25:987][ 88]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.293
+[2018.12.03-16.06.25:987][ 88]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.06.25:988][ 88]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.06.25:994][ 88]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.06.25:994][ 88]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.06.41:438][354]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.06.41:505][354]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.06.41:617][354]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.06.41:651][354]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.06.41:652][354]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.06.41:717][355]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2018.12.03-16.06.41:717][355]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.07.22:641][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.07.32:349][981]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.07.38:705][508]LogClass: Warning: In asset 'None', there is an enum property of type 'EHorizTextAligment' with an invalid value of ''
+[2018.12.03-16.07.38:705][508]LogClass: Warning: In asset 'None', there is an enum property of type 'EHorizTextAligment' with an invalid value of ''
+[2018.12.03-16.07.38:705][508]LogClass: Warning: In asset 'None', there is an enum property of type 'EHorizTextAligment' with an invalid value of ''
+[2018.12.03-16.07.38:718][508]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.12.03-16.07.42:120][794]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.07.48:428][329]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.07.52:097][612]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.08.25:964][909]BlueprintLog: New page: Compile Rifle
+[2018.12.03-16.08.26:630][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2018.12.03-16.08.26:937][941]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Rifle83E5CF0941D9E8E3F2E5A18B7E081252.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2018.12.03-16.08.31:698][376]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.08.39:076][980]LogClass: Warning: In asset 'None', there is an enum property of type 'EHorizTextAligment' with an invalid value of ''
+[2018.12.03-16.08.39:076][980]LogClass: Warning: In asset 'None', there is an enum property of type 'EHorizTextAligment' with an invalid value of ''
+[2018.12.03-16.08.39:076][980]LogClass: Warning: In asset 'None', there is an enum property of type 'EHorizTextAligment' with an invalid value of ''
+[2018.12.03-16.08.45:407][509]LogEditorTransaction: Undo Modify Component(s)
+[2018.12.03-16.08.46:064][555]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.08.50:226][871]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.08.54:683][233]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.08.54:773][242]BlueprintLog: New page: Compile Rifle
+[2018.12.03-16.08.55:350][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2018.12.03-16.08.55:405][268]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/RifleFACDC3094F28E485A0A1E6A5D3CC3BB0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2018.12.03-16.08.56:114][326]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-16.08.56:140][326]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.08.56:140][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.08.56:140][326]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.08.56:187][326]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:08:56)
+[2018.12.03-16.08.56:187][326]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.08.56:192][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005168s)
+[2018.12.03-16.08.56:193][326]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.08.56:193][326]LogPlayLevel: PIE: World Init took: (0.000798s)
+[2018.12.03-16.08.56:193][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006177s)
+[2018.12.03-16.08.56:243][326]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.08.56:253][326]LogInit: FAudioDevice initialized.
+[2018.12.03-16.08.56:267][326]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.08.56:370][326]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.08.56:400][326]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.08.56:401][326]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.08.56:403][326]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.08.56
+[2018.12.03-16.08.56:403][326]LogWorld: Bringing up level for play took: 0.001843
+[2018.12.03-16.08.56:429][326]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.265
+[2018.12.03-16.08.56:430][326]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.08.56:432][326]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.08.56:478][326]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.08.56:478][326]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.09.28:921][243]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.09.28:989][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.09.29:078][243]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.09.29:112][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.09.29:113][243]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.09.29:209][244]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2018.12.03-16.09.29:209][244]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.09.47:273][ 24]BlueprintLog: New page: Compile Handle
+[2018.12.03-16.09.47:278][ 24]LogBlueprint: Error: [Compiler Handle] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2018.12.03-16.09.47:535][ 24]LogBlueprint: Warning: [Compiler Handle] [0422.91] Compile of Handle failed. 1 Fatal Issue(s) 0 Warning(s) [in 261 ms] (/Game/Rifle/Handle.Handle)
+[2018.12.03-16.09.56:309][789]BlueprintLog: New page: Compile Handle
+[2018.12.03-16.09.56:485][789]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_387.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.09.56:486][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_53.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.09.56:487][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_701.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.09.56:494][789]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_389.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.09.56:495][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_55.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.09.56:496][789]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_703.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.09.57:334][862]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Handle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Handle.uasset" SILENT=true
+[2018.12.03-16.09.57:373][862]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/HandleC118F9554D1B52653BE234BD17612128.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Handle.uasset'
+[2018.12.03-16.09.58:497][961]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-16.09.58:525][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.09.58:525][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.09.58:525][961]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.09.58:577][961]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:09:58)
+[2018.12.03-16.09.58:577][961]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.09.58:585][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007513s)
+[2018.12.03-16.09.58:585][961]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.09.58:586][961]LogPlayLevel: PIE: World Init took: (0.000909s)
+[2018.12.03-16.09.58:586][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008680s)
+[2018.12.03-16.09.58:635][961]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.09.58:646][961]LogInit: FAudioDevice initialized.
+[2018.12.03-16.09.58:660][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.09.58:755][961]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.09.58:785][961]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.09.58:785][961]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.09.58:787][961]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.09.58
+[2018.12.03-16.09.58:788][961]LogWorld: Bringing up level for play took: 0.001935
+[2018.12.03-16.09.58:811][961]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.117
+[2018.12.03-16.09.58:812][961]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.09.58:813][961]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.09.58:845][961]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.09.58:845][961]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.10.10:388][998]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.10.10:461][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.10.10:542][998]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.10.10:580][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.10.10:580][998]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.10.10:655][999]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2018.12.03-16.10.10:656][999]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.10.44:930][ 38]BlueprintLog: New page: Compile Rifle
+[2018.12.03-16.10.45:491][ 66]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2018.12.03-16.10.45:543][ 66]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Rifle158C38E044756CF30DEF009B4C7BA202.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2018.12.03-16.10.46:319][133]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-16.10.46:349][133]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.10.46:349][133]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.10.46:349][133]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.10.46:401][133]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:10:46)
+[2018.12.03-16.10.46:401][133]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.10.46:408][133]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006810s)
+[2018.12.03-16.10.46:409][133]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.10.46:409][133]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2018.12.03-16.10.46:409][133]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.007787s)
+[2018.12.03-16.10.46:468][133]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.10.46:479][133]LogInit: FAudioDevice initialized.
+[2018.12.03-16.10.46:491][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.10.46:590][133]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.10.46:619][133]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.10.46:619][133]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.10.46:621][133]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.10.46
+[2018.12.03-16.10.46:621][133]LogWorld: Bringing up level for play took: 0.001383
+[2018.12.03-16.10.46:645][133]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.049
+[2018.12.03-16.10.46:646][133]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.10.46:647][133]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.10.46:685][133]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.10.46:685][133]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.11.44:990][373]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.11.45:060][373]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.11.45:138][373]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.11.45:175][373]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.11.45:176][373]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.11.45:263][374]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2018.12.03-16.11.45:263][374]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.12.12:224][993]BlueprintLog: New page: Compile Rifle
+[2018.12.03-16.12.13:145][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2018.12.03-16.12.13:183][ 64]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/RifleB86C407F4033B90E5F55E1A6CE4D06D4.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2018.12.03-16.14.26:163][848]BlueprintLog: New page: Compile Rifle
+[2018.12.03-16.14.27:653][998]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-16.14.27:677][998]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.14.27:677][998]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.14.27:677][998]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.14.27:717][998]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:14:27)
+[2018.12.03-16.14.27:717][998]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.14.27:723][998]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005277s)
+[2018.12.03-16.14.27:723][998]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.14.27:724][998]LogPlayLevel: PIE: World Init took: (0.000717s)
+[2018.12.03-16.14.27:724][998]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006169s)
+[2018.12.03-16.14.27:766][998]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.14.27:775][998]LogInit: FAudioDevice initialized.
+[2018.12.03-16.14.27:788][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.14.27:880][998]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.14.27:910][998]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.14.27:910][998]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.14.27:912][998]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.14.27
+[2018.12.03-16.14.27:912][998]LogWorld: Bringing up level for play took: 0.001240
+[2018.12.03-16.14.27:936][998]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.242
+[2018.12.03-16.14.27:936][998]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.14.27:937][998]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.14.27:968][998]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.14.27:968][998]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.14.43:784][436]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.14.43:859][436]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.14.43:947][436]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.14.43:983][436]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.14.43:984][436]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.14.44:064][437]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2018.12.03-16.14.44:064][437]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.14.46:520][659]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.14.46:520][659]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.14.46:520][659]PIE: New page: SIE session: MotionControllerMap (3 Dec 2018 16:14:46)
+[2018.12.03-16.14.46:520][659]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.14.46:526][659]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005527s)
+[2018.12.03-16.14.46:527][659]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.14.46:527][659]LogPlayLevel: PIE: World Init took: (0.000797s)
+[2018.12.03-16.14.46:527][659]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006547s)
+[2018.12.03-16.14.46:573][659]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-16.14.46:586][659]LogInit: FAudioDevice initialized.
+[2018.12.03-16.14.46:621][659]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.14.46:621][659]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.14.46:623][659]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.14.46
+[2018.12.03-16.14.46:623][659]LogWorld: Bringing up level for play took: 0.001504
+[2018.12.03-16.14.46:635][659]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.03-16.14.46:664][659]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.031
+[2018.12.03-16.14.46:941][659]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.15.02:837][894]Cmd: SELECT NONE
+[2018.12.03-16.15.05:185][ 67]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.15.05:185][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.15.05:227][ 67]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.15.05:228][ 67]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.15.05:261][ 67]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.15.05:314][ 68]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.12.03-16.15.10:874][552]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2018.12.03-16.15.10:921][552]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Rifle56E7E8E94F0C46867F1A5A8664E380B9.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2018.12.03-16.15.11:867][647]BlueprintLog: New page: Compile Rifle
+[2018.12.03-16.16.58:276][309]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_MotionController.BP_MotionController
+[2018.12.03-16.17.27:422][962]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.17.45:661][607]LogAssetEditorManager: Opening Asset editor for SkeletalMesh /Game/VirtualReality/Mannequin/Character/Mesh/MannequinHand_Right.MannequinHand_Right
+[2018.12.03-16.17.45:743][607]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.12.03-16.17.46:385][607]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.03-16.17.46:440][607]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.12.03-16.17.46:622][607]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.03-16.17.47:176][607]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.12.03-16.17.48:739][755]LogAssetEditorManager: Opening Asset editor for BlendSpace1D /Game/VirtualReality/Mannequin/Animations/RightGrip_BS.RightGrip_BS
+[2018.12.03-16.17.48:770][755]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.12.03-16.17.48:812][755]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.12.03-16.17.49:230][755]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.12.03-16.18.31:744][604]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.18.35:706][957]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.19.24:808][395]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Handle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Handle.uasset" SILENT=true
+[2018.12.03-16.19.24:835][395]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Handle40B0102C4285C4A90FA97C9B240DB007.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Handle.uasset'
+[2018.12.03-16.19.25:232][438]BlueprintLog: New page: Compile Handle
+[2018.12.03-16.19.25:388][438]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_89.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.19.25:388][438]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_415.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.19.25:389][438]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_731.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.19.25:399][438]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_419.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.19.25:399][438]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_735.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.19.25:400][438]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_93.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.19.27:014][622]LogTemp: Repeating last play command: Simulate
+[2018.12.03-16.19.27:037][622]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.19.27:037][622]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.12.03-16.19.27:095][622]LogPlayLevel: [PlayLevel] Compiling BP_MotionController before play...
+[2018.12.03-16.19.27:322][622]LogPlayLevel: PlayLevel: Blueprint regeneration took 285 ms (1 blueprints)
+[2018.12.03-16.19.27:323][622]PIE: New page: SIE session: MotionControllerMap (3 Dec 2018 16:19:27)
+[2018.12.03-16.19.27:323][622]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.19.27:328][622]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005187s)
+[2018.12.03-16.19.27:329][622]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.19.27:329][622]LogPlayLevel: PIE: World Init took: (0.001108s)
+[2018.12.03-16.19.27:329][622]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.006518s)
+[2018.12.03-16.19.27:368][622]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-16.19.27:379][622]LogInit: FAudioDevice initialized.
+[2018.12.03-16.19.27:407][622]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.19.27:407][622]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.19.27:409][622]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.19.27
+[2018.12.03-16.19.27:409][622]LogWorld: Bringing up level for play took: 0.000988
+[2018.12.03-16.19.27:421][622]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.03-16.19.27:424][622]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.729
+[2018.12.03-16.19.27:438][622]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.19.39:980][841]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.19.39:980][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.19.40:021][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.19.40:022][841]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.19.40:051][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.19.40:095][842]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2018.12.03-16.19.41:533][961]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.19.41:533][961]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.19.41:533][961]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.19.41:586][961]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:19:41)
+[2018.12.03-16.19.41:586][961]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.19.41:594][961]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007770s)
+[2018.12.03-16.19.41:595][961]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.19.41:595][961]LogPlayLevel: PIE: World Init took: (0.000940s)
+[2018.12.03-16.19.41:595][961]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008953s)
+[2018.12.03-16.19.41:651][961]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.19.41:663][961]LogInit: FAudioDevice initialized.
+[2018.12.03-16.19.41:677][961]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.19.41:787][961]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.19.41:818][961]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.19.41:818][961]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.19.41:819][961]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.19.41
+[2018.12.03-16.19.41:820][961]LogWorld: Bringing up level for play took: 0.001545
+[2018.12.03-16.19.41:844][961]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.15
+[2018.12.03-16.19.41:844][961]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.19.41:846][961]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.19.41:854][961]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.19.41:854][961]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.19.54:704][108]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.19.54:776][108]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.19.54:850][108]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.19.54:885][108]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.19.54:886][108]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.19.54:966][109]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2018.12.03-16.19.54:967][109]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.20.20:141][335]BlueprintLog: New page: Compile Handle
+[2018.12.03-16.20.20:298][335]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_423.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.20.20:299][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_739.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.20.20:300][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_97.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.20.20:312][335]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_427.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.20.20:313][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_743.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.20.20:313][335]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_101.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.20.20:808][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Handle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Handle.uasset" SILENT=true
+[2018.12.03-16.20.20:933][375]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/HandleAE2A92DD4112561415711F919565D8B6.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Handle.uasset'
+[2018.12.03-16.20.22:168][479]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-16.20.22:201][479]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.20.22:201][479]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.20.22:201][479]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.20.22:248][479]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:20:22)
+[2018.12.03-16.20.22:248][479]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.20.22:255][479]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006627s)
+[2018.12.03-16.20.22:256][479]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.20.22:256][479]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2018.12.03-16.20.22:256][479]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.007786s)
+[2018.12.03-16.20.22:314][479]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.20.22:328][479]LogInit: FAudioDevice initialized.
+[2018.12.03-16.20.22:340][479]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.20.22:444][479]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.20.22:474][479]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.20.22:474][479]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.20.22:476][479]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.20.22
+[2018.12.03-16.20.22:476][479]LogWorld: Bringing up level for play took: 0.001817
+[2018.12.03-16.20.22:499][479]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.195
+[2018.12.03-16.20.22:499][479]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.20.22:501][479]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.20.22:526][479]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.20.22:526][479]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.20.29:627][ 98]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.20.29:700][ 98]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.20.29:771][ 98]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.20.29:810][ 98]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.20.29:810][ 98]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.20.29:897][ 99]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2018.12.03-16.20.29:898][ 99]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.20.52:859][ 39]BlueprintLog: New page: Compile Handle
+[2018.12.03-16.20.53:039][ 39]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_431.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.20.53:041][ 39]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_747.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.20.53:042][ 39]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_105.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.20.53:057][ 39]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_435.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.20.53:058][ 39]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_751.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.20.53:059][ 39]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_109.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.20.53:409][ 65]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Handle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Handle.uasset" SILENT=true
+[2018.12.03-16.20.53:456][ 65]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/HandleE30F8D184933921E9A259A92F4AC18C1.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Handle.uasset'
+[2018.12.03-16.20.54:358][142]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-16.20.54:389][142]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.20.54:389][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.20.54:389][142]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.20.54:438][142]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:20:54)
+[2018.12.03-16.20.54:438][142]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.20.54:446][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007483s)
+[2018.12.03-16.20.54:446][142]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.20.54:447][142]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2018.12.03-16.20.54:447][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008530s)
+[2018.12.03-16.20.54:504][142]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.20.54:515][142]LogInit: FAudioDevice initialized.
+[2018.12.03-16.20.54:526][142]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.20.54:622][142]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.20.54:651][142]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.20.54:651][142]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.20.54:653][142]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.20.54
+[2018.12.03-16.20.54:654][142]LogWorld: Bringing up level for play took: 0.001627
+[2018.12.03-16.20.54:676][142]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.018
+[2018.12.03-16.20.54:676][142]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.20.54:677][142]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.20.54:705][142]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.20.54:705][142]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.21.04:628][ 29]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.21.04:699][ 29]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.21.04:777][ 29]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.21.04:818][ 29]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.21.04:818][ 29]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.21.04:899][ 30]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2018.12.03-16.21.04:899][ 30]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.21.59:752][805]BlueprintLog: New page: Compile Handle
+[2018.12.03-16.21.59:918][805]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_439.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.21.59:919][805]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_755.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.21.59:920][805]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_113.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.21.59:933][805]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_443.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.21.59:935][805]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_759.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.21.59:936][805]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_117.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.22.00:279][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Handle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Handle.uasset" SILENT=true
+[2018.12.03-16.22.00:326][830]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Handle0484A73E431385A74A8DFBA4DDA8D1AB.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Handle.uasset'
+[2018.12.03-16.22.01:173][902]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-16.22.01:203][902]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.22.01:203][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.22.01:203][902]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.22.01:253][902]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:22:01)
+[2018.12.03-16.22.01:254][902]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.22.01:261][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007774s)
+[2018.12.03-16.22.01:262][902]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.22.01:262][902]LogPlayLevel: PIE: World Init took: (0.000985s)
+[2018.12.03-16.22.01:263][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.009058s)
+[2018.12.03-16.22.01:320][902]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.22.01:330][902]LogInit: FAudioDevice initialized.
+[2018.12.03-16.22.01:342][902]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.22.01:433][902]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.22.01:463][902]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.22.01:463][902]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.22.01:465][902]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.22.01
+[2018.12.03-16.22.01:465][902]LogWorld: Bringing up level for play took: 0.001465
+[2018.12.03-16.22.01:488][902]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.795
+[2018.12.03-16.22.01:489][902]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.22.01:490][902]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.22.01:520][902]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.22.01:520][902]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.22.22:498][764]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.22.22:567][764]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.22.22:645][764]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.22.22:684][764]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.22.22:685][764]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.22.22:772][765]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2018.12.03-16.22.22:773][765]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.23.03:827][273]BlueprintLog: New page: Compile Rifle
+[2018.12.03-16.23.04:329][290]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2018.12.03-16.23.04:400][290]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/RifleB700C7B9488D8E3D19DDDCB8A8633234.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2018.12.03-16.23.05:544][376]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2018.12.03-16.23.05:569][376]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Rifle3927A7854A2541659FFAF3B42008BD7E.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2018.12.03-16.23.06:912][477]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-16.23.06:949][477]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.23.06:949][477]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.23.06:949][477]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.23.07:003][477]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:23:07)
+[2018.12.03-16.23.07:003][477]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.23.07:010][477]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006867s)
+[2018.12.03-16.23.07:010][477]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.23.07:011][477]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2018.12.03-16.23.07:011][477]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008104s)
+[2018.12.03-16.23.07:066][477]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.23.07:077][477]LogInit: FAudioDevice initialized.
+[2018.12.03-16.23.07:090][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.23.07:196][477]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.23.07:226][477]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.23.07:226][477]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.23.07:228][477]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.23.07
+[2018.12.03-16.23.07:229][477]LogWorld: Bringing up level for play took: 0.001990
+[2018.12.03-16.23.07:253][477]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.559
+[2018.12.03-16.23.07:253][477]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.23.07:255][477]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.23.07:306][477]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.23.07:307][477]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.23.10:263][739]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.23.10:336][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.23.10:420][739]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.23.10:453][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.23.10:454][739]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.23.10:559][740]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2018.12.03-16.23.10:560][740]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.23.22:779][702]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/VirtualRealityBP/Blueprints/BP_PickupCube.BP_PickupCube
+[2018.12.03-16.23.41:815][142]LogBlueprint: Warning: Reparenting blueprint Blueprint /Game/Rifle/Rifle.Rifle from Actor to StaticMeshActor...
+[2018.12.03-16.23.41:824][142]BlueprintLog: New page: Compile Rifle
+[2018.12.03-16.24.08:611][250]BlueprintLog: New page: Compile Rifle
+[2018.12.03-16.24.09:456][294]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2018.12.03-16.24.09:492][294]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/RifleD8ABB98F4851B3A27326E18CFBAB14C0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2018.12.03-16.24.28:071][768]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-16.24.28:111][768]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.24.28:111][768]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.24.28:111][768]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.24.28:165][768]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:24:28)
+[2018.12.03-16.24.28:165][768]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.24.28:173][768]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007654s)
+[2018.12.03-16.24.28:174][768]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.24.28:174][768]LogPlayLevel: PIE: World Init took: (0.001029s)
+[2018.12.03-16.24.28:174][768]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008932s)
+[2018.12.03-16.24.28:234][768]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.24.28:245][768]LogInit: FAudioDevice initialized.
+[2018.12.03-16.24.28:256][768]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.24.28:361][768]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.24.28:391][768]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.24.28:391][768]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.24.28:393][768]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.24.28
+[2018.12.03-16.24.28:393][768]LogWorld: Bringing up level for play took: 0.001107
+[2018.12.03-16.24.28:415][768]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.278
+[2018.12.03-16.24.28:416][768]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.24.28:417][768]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.24.28:463][768]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.24.28:463][768]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.24.32:455][119]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.24.32:528][119]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.24.32:799][119]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.24.32:834][119]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.24.32:835][119]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.24.32:935][120]Cmd: SELECT NONE
+[2018.12.03-16.24.32:936][120]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2018.12.03-16.24.32:936][120]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.24.52:071][582]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.24.57:097][948]BlueprintLog: New page: Compile Rifle
+[2018.12.03-16.24.59:371][ 97]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-16.24.59:421][ 97]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.24.59:421][ 97]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.24.59:421][ 97]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.24.59:473][ 97]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:24:59)
+[2018.12.03-16.24.59:473][ 97]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.24.59:480][ 97]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006886s)
+[2018.12.03-16.24.59:480][ 97]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.24.59:481][ 97]LogPlayLevel: PIE: World Init took: (0.000860s)
+[2018.12.03-16.24.59:481][ 97]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.007952s)
+[2018.12.03-16.24.59:538][ 97]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.24.59:549][ 97]LogInit: FAudioDevice initialized.
+[2018.12.03-16.24.59:562][ 97]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.24.59:669][ 97]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.24.59:699][ 97]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.24.59:699][ 97]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.24.59:713][ 97]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.24.59
+[2018.12.03-16.24.59:713][ 97]LogWorld: Bringing up level for play took: 0.013273
+[2018.12.03-16.24.59:738][ 97]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.044
+[2018.12.03-16.24.59:738][ 97]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.24.59:740][ 97]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.24.59:791][ 97]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.24.59:791][ 97]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.25.35:125][265]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.25.35:194][265]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.25.35:292][265]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.25.35:324][265]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.25.35:325][265]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.25.35:436][266]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2018.12.03-16.25.35:436][266]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.25.49:117][393]BlueprintLog: New page: Compile Rifle
+[2018.12.03-16.25.50:313][489]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-16.25.50:346][489]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.25.50:347][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.25.50:347][489]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.25.50:386][489]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:25:50)
+[2018.12.03-16.25.50:386][489]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.25.50:394][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007724s)
+[2018.12.03-16.25.50:395][489]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.25.50:395][489]LogPlayLevel: PIE: World Init took: (0.000943s)
+[2018.12.03-16.25.50:395][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008923s)
+[2018.12.03-16.25.50:458][489]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.25.50:468][489]LogInit: FAudioDevice initialized.
+[2018.12.03-16.25.50:480][489]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.25.50:585][489]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.25.50:616][489]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.25.50:616][489]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.25.50:618][489]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.25.50
+[2018.12.03-16.25.50:618][489]LogWorld: Bringing up level for play took: 0.001643
+[2018.12.03-16.25.50:641][489]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.053
+[2018.12.03-16.25.50:642][489]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.25.50:642][489]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.25.50:662][489]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.25.50:662][489]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.25.52:791][662]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.25.52:861][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.25.52:921][662]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.25.52:957][662]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.25.52:958][662]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.25.53:030][663]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2018.12.03-16.25.53:031][663]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.25.54:687][812]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.25.54:687][812]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.25.54:687][812]PIE: New page: SIE session: MotionControllerMap (3 Dec 2018 16:25:54)
+[2018.12.03-16.25.54:687][812]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.25.54:692][812]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004909s)
+[2018.12.03-16.25.54:693][812]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.25.54:693][812]LogPlayLevel: PIE: World Init took: (0.000645s)
+[2018.12.03-16.25.54:693][812]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.005706s)
+[2018.12.03-16.25.54:736][812]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-16.25.54:746][812]LogInit: FAudioDevice initialized.
+[2018.12.03-16.25.54:776][812]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.25.54:776][812]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.25.54:778][812]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.25.54
+[2018.12.03-16.25.54:778][812]LogWorld: Bringing up level for play took: 0.001388
+[2018.12.03-16.25.54:790][812]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.03-16.25.54:794][812]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.1
+[2018.12.03-16.25.54:797][812]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.25.55:319][856]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.25.55:319][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.25.55:355][856]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.25.55:356][856]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.25.55:393][856]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.25.55:438][857]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2018.12.03-16.25.59:018][162]LogEditorTransaction: Undo Remove Components
+[2018.12.03-16.25.59:023][162]LogActorComponent: ~FComponentReregisterContext: (/Engine/Transient.World_1:PersistentLevel.Rifle_C_0.StaticMeshComponent0) Component already registered.
+[2018.12.03-16.26.15:989][487]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.26.21:146][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.26.21:255][898]BlueprintLog: New page: Compile Rifle
+[2018.12.03-16.26.21:962][929]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2018.12.03-16.26.22:026][929]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Rifle702A157B4C18F70D7A304F93F9463BC0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2018.12.03-16.26.34:741][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Handle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Handle.uasset" SILENT=true
+[2018.12.03-16.26.34:776][834]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/HandleCC2EF4DA4ACE5F572741CEA9E820E14C.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Handle.uasset'
+[2018.12.03-16.26.35:755][896]LogTemp: Repeating last play command: Simulate
+[2018.12.03-16.26.35:795][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.26.35:795][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.26.35:796][896]PIE: New page: SIE session: MotionControllerMap (3 Dec 2018 16:26:35)
+[2018.12.03-16.26.35:796][896]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.26.35:803][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007393s)
+[2018.12.03-16.26.35:804][896]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.26.35:804][896]LogPlayLevel: PIE: World Init took: (0.000681s)
+[2018.12.03-16.26.35:804][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008272s)
+[2018.12.03-16.26.35:855][896]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.12.03-16.26.35:866][896]LogInit: FAudioDevice initialized.
+[2018.12.03-16.26.35:900][896]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.26.35:900][896]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.26.35:901][896]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.26.35
+[2018.12.03-16.26.35:901][896]LogWorld: Bringing up level for play took: 0.001307
+[2018.12.03-16.26.35:913][896]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2018.12.03-16.26.35:916][896]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.778
+[2018.12.03-16.26.35:919][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.26.38:126][ 32]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.26.38:126][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.26.38:167][ 32]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.26.38:168][ 32]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.26.38:207][ 32]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.26.38:280][ 33]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2018.12.03-16.26.43:604][385]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.26.43:604][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.26.43:604][385]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.26.43:658][385]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:26:43)
+[2018.12.03-16.26.43:658][385]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.26.43:665][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007035s)
+[2018.12.03-16.26.43:666][385]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.26.43:666][385]LogPlayLevel: PIE: World Init took: (0.001111s)
+[2018.12.03-16.26.43:666][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008420s)
+[2018.12.03-16.26.43:726][385]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.26.43:738][385]LogInit: FAudioDevice initialized.
+[2018.12.03-16.26.43:751][385]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.26.43:861][385]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.26.43:890][385]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.26.43:890][385]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.26.43:892][385]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.26.43
+[2018.12.03-16.26.43:892][385]LogWorld: Bringing up level for play took: 0.001220
+[2018.12.03-16.26.43:917][385]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.223
+[2018.12.03-16.26.43:917][385]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.26.43:919][385]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.26.43:928][385]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.26.43:928][385]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.26.53:270][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.26.53:344][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.26.53:424][208]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.26.53:463][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.26.53:464][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.26.53:576][209]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2018.12.03-16.26.53:576][209]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.26.55:275][329]LogActorFactory: Actor Factory created Cube
+[2018.12.03-16.26.55:337][329]LogMaterial: Display: Missing cached shader map for material BasicShapeMaterial, compiling. 
+[2018.12.03-16.26.55:547][329]LogShaderCompilers: Display: Shaders left to compile 61
+[2018.12.03-16.26.55:547][329]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.12.03-16.26.55:547][329]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.12.03-16.26.55:547][329]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.12.03-16.26.56:231][373]LogActorFactory: Actor Factory created Cube
+[2018.12.03-16.27.00:216][565]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.12.03-16.27.01:667][630]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.12.03-16.27.03:755][715]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.12.03-16.27.04:133][730]LogEditorViewport: Clicking on Actor (LMB): Rifle_C (Rifle)
+[2018.12.03-16.27.05:811][804]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.12.03-16.27.05:865][807]LogTemp: Repeating last play command: VR Preview
+[2018.12.03-16.27.05:910][807]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.27.05:910][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.12.03-16.27.05:910][807]LogHMD: Initializing OVRPlugin session
+[2018.12.03-16.27.05:965][807]PIE: New page: PIE session: MotionControllerMap (3 Dec 2018 16:27:05)
+[2018.12.03-16.27.05:965][807]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2018.12.03-16.27.05:974][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008891s)
+[2018.12.03-16.27.05:975][807]LogAIModule: Creating AISystem for world MotionControllerMap
+[2018.12.03-16.27.05:975][807]LogPlayLevel: PIE: World Init took: (0.000971s)
+[2018.12.03-16.27.05:976][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010134s)
+[2018.12.03-16.27.06:044][807]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.12.03-16.27.06:057][807]LogInit: FAudioDevice initialized.
+[2018.12.03-16.27.06:076][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.27.06:193][807]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2018.12.03-16.27.06:225][807]LogUObjectGlobals: Warning: Failed to find object 'Class None.'
+[2018.12.03-16.27.06:226][807]LogLoad: Game class is 'GameModeBase'
+[2018.12.03-16.27.06:227][807]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2018.12.03-16.27.06
+[2018.12.03-16.27.06:228][807]LogWorld: Bringing up level for play took: 0.001603
+[2018.12.03-16.27.06:253][807]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.441
+[2018.12.03-16.27.06:253][807]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.27.06:255][807]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.27.06:312][807]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2018.12.03-16.27.06:312][807]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2018.12.03-16.27.18:995][917]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.27.19:066][917]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.12.03-16.27.19:160][917]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2018.12.03-16.27.19:198][917]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.12.03-16.27.19:199][917]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2018.12.03-16.27.19:306][918]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2018.12.03-16.27.19:306][918]LogEngine: Changing dynamic resolution state.
+[2018.12.03-16.27.25:914][390]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_218.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.27.25:915][390]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_548.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.27.25:916][390]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_880.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.27.27:929][540]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_220.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.27.27:930][540]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_882.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.27.27:931][540]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_550.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.27.59:831][  6]BlueprintLog: New page: Compile Handle
+[2018.12.03-16.28.00:014][  6]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_222.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.28.00:015][  6]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_884.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.28.00:016][  6]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_552.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.28.00:029][  6]LogActorComponent: RegisterComponentWithWorld: (/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_556.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.28.00:030][  6]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_1:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_888.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.28.00:031][  6]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.DESTROYED_Handle_C_CHILDACTOR_226.Box) Trying to register component with IsPendingKill() == true. Aborting.
+[2018.12.03-16.28.00:391][ 30]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Handle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Handle.uasset" SILENT=true
+[2018.12.03-16.28.00:422][ 30]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Handle40853DD74BF4BA0F12141BB9F8BFF58A.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Handle.uasset'
+[2018.12.03-16.28.20:801][650]LogUObjectArray: Warning: Other object in slot
+[2018.12.03-16.28.21:184][650]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.383 s
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: === Handled ensure: ===
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: 
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: Stack: 
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: [Callstack] 0x00007ffc981a71f6 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: [Callstack] 0x00007ffc97ee0c92 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: [Callstack] 0x00007ffc97efb356 UE4Editor-Core.dll!UnknownFunction []
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: [Callstack] 0x00007ffc894d11db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: [Callstack] 0x00007ffc894e060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: [Callstack] 0x00007ffc8eceda7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: [Callstack] 0x00007ffc871aec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: [Callstack] 0x00007ffc8716f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: [Callstack] 0x00007ffc97808204 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: [Callstack] 0x00007ffc97a4e933 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: [Callstack] 0x00007ffc9786281a UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: [Callstack] 0x00007ffc97838190 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: [Callstack] 0x00007ffc9782b073 UE4Editor-Slate.dll!UnknownFunction []
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: [Callstack] 0x00007ffcc502d007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.03-16.28.21:184][650]LogOutputDevice: Error: [Callstack] 0x00007ffcc5020270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.03-16.28.21:185][650]LogOutputDevice: Error: [Callstack] 0x00007ffcc502f4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.03-16.28.21:185][650]LogOutputDevice: Error: [Callstack] 0x00007ffcc501c209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.03-16.28.21:185][650]LogOutputDevice: Error: [Callstack] 0x00007ffcf1956d41 USER32.dll!UnknownFunction []
+[2018.12.03-16.28.21:185][650]LogOutputDevice: Error: [Callstack] 0x00007ffcf1956713 USER32.dll!UnknownFunction []
+[2018.12.03-16.28.21:185][650]LogOutputDevice: Error: [Callstack] 0x00007ffcc5030646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2018.12.03-16.28.21:185][650]LogOutputDevice: Error: [Callstack] 0x00007ff6ae4754e5 UE4Editor.exe!UnknownFunction []
+[2018.12.03-16.28.21:185][650]LogOutputDevice: Error: [Callstack] 0x00007ff6ae485b3c UE4Editor.exe!UnknownFunction []
+[2018.12.03-16.28.21:185][650]LogOutputDevice: Error: [Callstack] 0x00007ff6ae485bba UE4Editor.exe!UnknownFunction []
+[2018.12.03-16.28.21:185][650]LogOutputDevice: Error: [Callstack] 0x00007ff6ae493dac UE4Editor.exe!UnknownFunction []
+[2018.12.03-16.28.21:185][650]LogOutputDevice: Error: [Callstack] 0x00007ff6ae495aaa UE4Editor.exe!UnknownFunction []
+[2018.12.03-16.28.21:185][650]LogOutputDevice: Error: [Callstack] 0x00007ffcf34c3034 KERNEL32.DLL!UnknownFunction []
+[2018.12.03-16.28.21:185][650]LogOutputDevice: Error: [Callstack] 0x00007ffcf4511471 ntdll.dll!UnknownFunction []
+[2018.12.03-16.28.21:185][650]LogOutputDevice: Error: 
+[2018.12.03-16.28.21:194][650]LogStats:                SubmitErrorReport -  0.000 s

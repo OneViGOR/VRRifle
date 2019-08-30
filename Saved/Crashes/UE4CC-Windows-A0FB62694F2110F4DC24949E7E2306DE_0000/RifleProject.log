@@ -1,0 +1,1207 @@
+﻿Log file open, 04/21/19 17:48:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: RifleProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.283956
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.090s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4369336
+LogInit: Engine Version: 4.20.3-4369336+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 980 Ti
+LogInit: Compiled (64-bit): Sep 17 2018 12:26:19
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.002s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2019.04.21-16.48.15:216][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.21-16.48.15:216][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.04.21-16.48.15:225][  0]LogHAL: Display: Platform has ~ 16 GB [17116696576 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.04.21-16.48.15:225][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2019.04.21-16.48.15:225][  0]LogInit: Going up to parent DeviceProfile []
+[2019.04.21-16.48.15:225][  0]LogInit: Computer: VIGOR-VANQUISH
+[2019.04.21-16.48.15:225][  0]LogInit: User: James
+[2019.04.21-16.48.15:225][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.04.21-16.48.15:225][  0]LogInit: High frequency timer resolution =3.514610 MHz
+[2019.04.21-16.48.15:225][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.04.21-16.48.15:225][  0]LogMemory: Platform Memory Stats for Windows
+[2019.04.21-16.48.15:225][  0]LogMemory: Process Physical Memory: 108.05 MB used, 108.05 MB peak
+[2019.04.21-16.48.15:225][  0]LogMemory: Process Virtual Memory: 95.43 MB used, 95.43 MB peak
+[2019.04.21-16.48.15:225][  0]LogMemory: Physical Memory: 7183.99 MB used,  9139.76 MB free, 16323.75 MB total
+[2019.04.21-16.48.15:225][  0]LogMemory: Virtual Memory: 4662.36 MB used,  9139.76 MB free, 134217728.00 MB total
+[2019.04.21-16.48.15:243][  0]LogInit: Using OS detected language (en-GB).
+[2019.04.21-16.48.15:243][  0]LogInit: Using OS detected locale (en-GB).
+[2019.04.21-16.48.15:244][  0]LogTextLocalizationManager: No specific localization for 'en-GB' exists, so the 'en' localization will be used.
+[2019.04.21-16.48.15:656][  0]LogStreaming: Display: Took  0.413s to InitEngineTextLocalization.
+[2019.04.21-16.48.15:656][  0]LogInit: Setting process to per monitor DPI aware
+[2019.04.21-16.48.15:702][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.04.21-16.48.15:702][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.04.21-16.48.15:892][  0]LogD3D11RHI: D3D11 adapters:
+[2019.04.21-16.48.15:945][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2019.04.21-16.48.15:945][  0]LogD3D11RHI:       6097/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2019.04.21-16.48.15:946][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.04.21-16.48.15:946][  0]LogD3D11RHI:       0/0/8161 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.04.21-16.48.15:946][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.04.21-16.48.15:953][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.04.21-16.48.15:953][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2019.04.21-16.48.15:953][  0]LogWindows: EnumDisplayDevices:
+[2019.04.21-16.48.15:953][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2019.04.21-16.48.15:954][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2019.04.21-16.48.15:954][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:1)
+[2019.04.21-16.48.15:954][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2019.04.21-16.48.15:954][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.04.21-16.48.15:954][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2019.04.21-16.48.15:954][  0]LogD3D11RHI:   Driver Version: 418.81 (internal:25.21.14.1881, unified:418.81)
+[2019.04.21-16.48.15:954][  0]LogD3D11RHI:      Driver Date: 1-30-2019
+[2019.04.21-16.48.15:954][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2019.04.21-16.48.15:988][  0]LogD3D11RHI: Async texture creation enabled
+[2019.04.21-16.48.16:002][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.04.21-16.48.16:048][  0]LogShaderCompilers: Guid format shader working directory is -23 characters bigger than the processId version (../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Intermediate/Shaders/WorkingDirectory/15100/).
+[2019.04.21-16.48.16:048][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/James/AppData/Local/Temp/UnrealShaderWorkingDir/6E5996BE4C522266A259EFA98E8E9A3C/'.
+[2019.04.21-16.48.16:302][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2019.04.21-16.48.16:316][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2019.04.21-16.48.16:336][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2019.04.21-16.48.16:351][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2019.04.21-16.48.16:367][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2019.04.21-16.48.16:380][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2019.04.21-16.48.16:395][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2019.04.21-16.48.16:411][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2019.04.21-16.48.16:418][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:506][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2019.04.21-16.48.16:508][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2019.04.21-16.48.16:570][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.21-16.48.16:570][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2019.04.21-16.48.16:594][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.21-16.48.16:594][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2019.04.21-16.48.16:606][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2019.04.21-16.48.16:619][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2019.04.21-16.48.16:631][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2019.04.21-16.48.16:644][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2019.04.21-16.48.16:653][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2019.04.21-16.48.16:653][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.04.21-16.48.16:707][  0]LogXGEController: Cleaning working directory: C:/Users/James/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.04.21-16.48.16:708][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.04.21-16.48.16:708][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.04.21-16.48.16:708][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.04.21-16.48.17:443][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.04.21-16.48.17:513][  0]LogDerivedDataCache: Loaded boot cache 0.07s 86MB C:/Users/James/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.21-16.48.17:513][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/James/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2019.04.21-16.48.17:513][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/James/Documents/Unreal Projects/RifleProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.04.21-16.48.17:513][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.04.21-16.48.17:513][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/James/Documents/Unreal Projects/RifleProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.04.21-16.48.17:513][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.04.21-16.48.17:529][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.04.21-16.48.17:542][  0]LogDerivedDataCache: Using Local data cache path C:/Users/James/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.04.21-16.48.17:542][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.04.21-16.48.17:542][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.04.21-16.48.17:560][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.04.21-16.48.17:561][  0]LogSlate: Using FreeType 2.6.0
+[2019.04.21-16.48.17:562][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.04.21-16.48.17:631][  0]LogAssetRegistry: FAssetRegistry took 0.0268 seconds to start up
+[2019.04.21-16.48.17:931][  0]LogInit: Selected Device Profile: [Windows]
+[2019.04.21-16.48.18:071][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2019.04.21-16.48.18:074][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2019.04.21-16.48.18:074][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.04.21-16.48.18:074][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.04.21-16.48.18:074][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2019.04.21-16.48.18:102][  0]LogNetVersion: RifleProject 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 2737303330)
+[2019.04.21-16.48.18:577][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.083629 seconds
+[2019.04.21-16.48.18:584][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2019.04.21-16.48.18:584][  0]LogUObjectAllocator: 6690864 out of 0 bytes used by permanent object pool.
+[2019.04.21-16.48.18:584][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.04.21-16.48.19:379][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.04.21-16.48.19:392][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.04.21-16.48.19:527][  0]SourceControl: Source control is disabled
+[2019.04.21-16.48.19:527][  0]SourceControl: Source control is disabled
+[2019.04.21-16.48.19:529][  0]SourceControl: Source control is disabled
+[2019.04.21-16.48.19:530][  0]SourceControl: Source control is disabled
+[2019.04.21-16.48.19:689][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.04.21-16.48.19:790][  0]LogOcInput: OculusInput pre-init called
+[2019.04.21-16.48.19:847][  0]LogEngine: Initializing Engine...
+[2019.04.21-16.48.19:859][  0]LogHMD: Oculus plugin initialized. Version: 4.20.3-4369336+++UE4+Release-4.20, OVRPlugin: 1.25.0
+[2019.04.21-16.48.19:861][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.21-16.48.19:861][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.21-16.48.19:861][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.21-16.48.19:861][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.21-16.48.20:052][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.04.21-16.48.20:065][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.04.21-16.48.20:092][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.04.21-16.48.20:128][  0]LogInit: FAudioDevice initialized.
+[2019.04.21-16.48.20:129][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.04.21-16.48.20:266][  0]LogDerivedDataCache: Saved boot cache 0.14s 86MB C:/Users/James/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2019.04.21-16.48.20:282][  0]LogInit: Texture streaming: Enabled
+[2019.04.21-16.48.20:298][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.04.21-16.48.20:476][  0]LogInit: Transaction tracking system initialized
+[2019.04.21-16.48.20:500][  0]BlueprintLog: New page: Editor Load
+[2019.04.21-16.48.20:578][  0]LocalizationService: Localization service is disabled
+[2019.04.21-16.48.20:814][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.04.21-16.48.20:814][  0]LogCook: Display: Mobile HDR setting 1
+[2019.04.21-16.48.20:814][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2019.04.21-16.48.20:814][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2019.04.21-16.48.20:814][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2019.04.21-16.48.20:814][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2019.04.21-16.48.20:814][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2019.04.21-16.48.20:930][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/RifleProject/Content/' took 0.02s
+[2019.04.21-16.48.20:930][  0]SourceControl: Source control is disabled
+[2019.04.21-16.48.20:930][  0]Cmd: MAP LOAD FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/VirtualRealityBP/Maps/MotionControllerMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.04.21-16.48.20:931][  0]LightingResults: New page: Lighting Build
+[2019.04.21-16.48.20:933][  0]MapCheck: New page: Map Check
+[2019.04.21-16.48.20:933][  0]LightingResults: New page: Lighting Build
+[2019.04.21-16.48.22:034][  0]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.04.21-16.48.22:069][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.04.21-16.48.22:094][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.04.21-16.48.22:173][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 78.637ms to complete.
+[2019.04.21-16.48.22:173][  0]LogFileHelpers: Loading map 'MotionControllerMap' took 1.243
+[2019.04.21-16.48.22:297][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.48.22:304][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.48.22:311][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.48.22:319][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.48.22:325][  0]LogCollectionManager: Loaded 0 collections in 0.001902 seconds
+[2019.04.21-16.48.22:380][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/RifleProject/Saved/Collections/' took 0.01s
+[2019.04.21-16.48.22:380][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/RifleProject/Content/Developers/James/Collections/' took 0.01s
+[2019.04.21-16.48.22:380][  0]LogFileCache: Scanning file cache for directory 'C:/Users/James/Documents/Unreal Projects/RifleProject/Content/Collections/' took 0.01s
+[2019.04.21-16.48.22:380][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2019.04.21-16.48.22:388][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2572 classes and 603 folders.
+[2019.04.21-16.48.22:395][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.21-16.48.22:443][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.04.21-16.48.22:450][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0002 seconds. Added 2 classes and 3 folders.
+[2019.04.21-16.48.22:458][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2019.04.21-16.48.22:534][  0]LogSlate: Took 0.000241 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.04.21-16.48.22:536][  0]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.04.21-16.48.22:542][  0]LogSlate: Took 0.000284 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.04.21-16.48.22:621][  0]LogRenderer: Reallocating scene render targets to support 752x1080 Format 10 NumSamples 1 (Frame:1).
+[2019.04.21-16.48.22:639][  0]LogRenderer: Reallocating scene render targets to support 1648x1080 Format 26 NumSamples 1 (Frame:1).
+[2019.04.21-16.48.22:778][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.04.21-16.48.22:778][  0]LogLoad: (Engine Initialization) Total time: 9.45 seconds
+[2019.04.21-16.48.22:778][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.04.21-16.48.22:794][  0]LogOcInput: OculusInput is initialized
+[2019.04.21-16.48.22:815][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.04.21-16.48.22:888][  1]LogAssetRegistry: Asset discovery search completed in 5.2797 seconds
+[2019.04.21-16.48.22:890][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2019.04.21-16.48.22:890][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000055 seconds (updated 0 objects)
+[2019.04.21-16.49.32:962][211]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.21-16.50.23:640][  6]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.04.21-16.50.56:238][831]LogTemp: Repeating last play command: VR Preview
+[2019.04.21-16.50.56:254][831]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.50.56:255][831]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.21-16.50.56:255][831]LogHMD: Initializing OVRPlugin session
+[2019.04.21-16.50.56:377][831]PIE: New page: PIE session: MotionControllerMap (21 Apr 2019 18:50:56)
+[2019.04.21-16.50.56:378][831]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.04.21-16.50.56:386][831]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008390s)
+[2019.04.21-16.50.56:387][831]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.04.21-16.50.56:387][831]LogPlayLevel: PIE: World Init took: (0.000952s)
+[2019.04.21-16.50.56:388][831]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.009588s)
+[2019.04.21-16.50.56:471][831]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.21-16.50.56:480][831]LogInit: FAudioDevice initialized.
+[2019.04.21-16.50.56:501][831]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.50.56:630][831]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2019.04.21-16.50.56:668][831]LogLoad: Game class is 'VRGameMode_C'
+[2019.04.21-16.50.56:690][831]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.04.21-17.50.56
+[2019.04.21-16.50.56:715][831]LogWorld: Bringing up level for play took: 0.046149
+[2019.04.21-16.50.56:972][831]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 10 classes and 0 folders.
+[2019.04.21-16.50.56:983][831]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-16.50.57:015][831]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-16.50.57:015][831]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-16.50.57:043][831]LogHMD: SetSpectatorScreenMode(7).
+[2019.04.21-16.50.57:043][831]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-16.50.57:048][831]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.037
+[2019.04.21-16.50.57:049][831]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.50.57:050][831]LogEngine: Changing dynamic resolution state.
+[2019.04.21-16.50.57:540][831]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-16.50.57:540][831]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-16.50.57:540][831]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-16.50.57:540][831]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-16.50.57:540][831]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-16.50.57:540][831]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-16.50.57:540][831]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-16.50.57:542][831]LogRenderer: Reallocating scene render targets to support 2720x1600 Format 26 NumSamples 1 (Frame:1).
+[2019.04.21-16.50.57:542][831]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2019.04.21-16.51.10:153][791]LogBlueprintUserMessages: [PlasmaBolt_C_0] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.51.10:767][845]LogBlueprintUserMessages: [PlasmaBolt_C_1] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.51.11:067][872]LogBlueprintUserMessages: [PlasmaBolt_C_2] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.51.11:288][892]LogBlueprintUserMessages: [PlasmaBolt_C_3] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.51.11:513][912]LogBlueprintUserMessages: [PlasmaBolt_C_4] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.51.13:314][ 74]LogBlueprintUserMessages: [PlasmaBolt_C_5] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.51.13:569][ 97]LogBlueprintUserMessages: [PlasmaBolt_C_6] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.51.13:758][114]LogBlueprintUserMessages: [PlasmaBolt_C_7] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.51.13:935][130]LogBlueprintUserMessages: [PlasmaBolt_C_8] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.51.14:048][140]LogBlueprintUserMessages: [PlasmaBolt_C_9] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.51.14:691][198]LogBlueprintUserMessages: [PlasmaBolt_C_10] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.51.15:191][243]LogBlueprintUserMessages: [PlasmaBolt_C_11] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.51.15:213][245]LogBlueprintUserMessages: [PlasmaBolt_C_12] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.51.15:247][248]LogBlueprintUserMessages: [PlasmaBolt_C_13] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.51.15:303][253]LogBlueprintUserMessages: [PlasmaBolt_C_14] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.51.16:424][354]LogBlueprintUserMessages: [PlasmaBolt_C_17] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.51.16:491][360]LogBlueprintUserMessages: [PlasmaBolt_C_18] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.51.16:491][360]LogBlueprintUserMessages: [PlasmaBolt_C_16] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.51.16:827][390]LogBlueprintUserMessages: [PlasmaBolt_C_15] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.51.18:594][549]LogBlueprintUserMessages: [PlasmaBolt_C_19] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.51.19:194][603]LogBlueprintUserMessages: [PlasmaBolt_C_20] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.51.19:604][640]LogBlueprintUserMessages: [PlasmaBolt_C_21] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.51.19:849][662]LogBlueprintUserMessages: [PlasmaBolt_C_22] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.51.20:705][739]LogBlueprintUserMessages: [PlasmaBolt_C_23] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.51.21:251][788]LogBlueprintUserMessages: [PlasmaBolt_C_24] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.51.22:269][879]LogBlueprintUserMessages: [PlasmaBolt_C_25] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.51.22:750][922]LogBlueprintUserMessages: [PlasmaBolt_C_26] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.51.23:194][962]LogBlueprintUserMessages: [PlasmaBolt_C_27] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.51.30:140][586]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.51.30:207][586]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.51.30:261][586]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.21-16.51.30:297][586]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.21-16.51.30:297][586]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.51.30:356][587]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.04.21-16.51.30:356][587]LogEngine: Changing dynamic resolution state.
+[2019.04.21-16.51.32:155][776]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.04.21-16.51.32:164][776]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rifle/Rifle.Rifle
+[2019.04.21-16.51.32:624][776]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2019.04.21-16.51.33:461][776]LogSlate: Took 0.000230 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.04.21-16.51.33:654][777]LogSlate: Took 0.000269 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.04.21-16.51.47:399][522]LogSlate: Took 0.054353 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.04.21-16.52.12:286][481]BlueprintLog: New page: Compile Rifle
+[2019.04.21-16.52.12:954][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2019.04.21-16.52.13:141][497]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/RifleC962011F4568ACFB6870AEA20C42FEAC.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2019.04.21-16.52.14:455][592]LogTemp: Repeating last play command: VR Preview
+[2019.04.21-16.52.14:481][592]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.52.14:482][592]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.21-16.52.14:482][592]LogHMD: Initializing OVRPlugin session
+[2019.04.21-16.52.14:519][592]PIE: New page: PIE session: MotionControllerMap (21 Apr 2019 18:52:14)
+[2019.04.21-16.52.14:519][592]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.04.21-16.52.14:526][592]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006995s)
+[2019.04.21-16.52.14:527][592]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.04.21-16.52.14:527][592]LogPlayLevel: PIE: World Init took: (0.000831s)
+[2019.04.21-16.52.14:527][592]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008009s)
+[2019.04.21-16.52.14:587][592]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.21-16.52.14:599][592]LogInit: FAudioDevice initialized.
+[2019.04.21-16.52.14:619][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.52.14:734][592]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2019.04.21-16.52.14:764][592]LogLoad: Game class is 'VRGameMode_C'
+[2019.04.21-16.52.14:769][592]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.04.21-17.52.14
+[2019.04.21-16.52.14:770][592]LogWorld: Bringing up level for play took: 0.004938
+[2019.04.21-16.52.14:781][592]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-16.52.14:781][592]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-16.52.14:781][592]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-16.52.14:784][592]LogHMD: SetSpectatorScreenMode(7).
+[2019.04.21-16.52.14:784][592]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-16.52.14:793][592]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.781
+[2019.04.21-16.52.14:793][592]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.52.14:795][592]LogEngine: Changing dynamic resolution state.
+[2019.04.21-16.52.14:858][592]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-16.52.14:858][592]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2019.04.21-16.52.24:200][403]LogBlueprintUserMessages: [PlasmaBolt_C_0] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.52.26:426][603]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.52.26:502][603]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.52.26:602][603]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.21-16.52.26:642][603]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.21-16.52.26:642][603]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.52.26:762][604]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.04.21-16.52.26:762][604]LogEngine: Changing dynamic resolution state.
+[2019.04.21-16.52.32:523][952]BlueprintLog: New page: Compile Rifle
+[2019.04.21-16.52.33:912][ 10]LogTemp: Repeating last play command: VR Preview
+[2019.04.21-16.52.33:941][ 10]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.52.33:942][ 10]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.21-16.52.33:942][ 10]LogHMD: Initializing OVRPlugin session
+[2019.04.21-16.52.33:975][ 10]PIE: New page: PIE session: MotionControllerMap (21 Apr 2019 18:52:33)
+[2019.04.21-16.52.33:976][ 10]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.04.21-16.52.33:985][ 10]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009452s)
+[2019.04.21-16.52.33:986][ 10]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.04.21-16.52.33:986][ 10]LogPlayLevel: PIE: World Init took: (0.000908s)
+[2019.04.21-16.52.33:986][ 10]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010576s)
+[2019.04.21-16.52.34:050][ 10]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.21-16.52.34:062][ 10]LogInit: FAudioDevice initialized.
+[2019.04.21-16.52.34:084][ 10]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.52.34:202][ 10]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2019.04.21-16.52.34:233][ 10]LogLoad: Game class is 'VRGameMode_C'
+[2019.04.21-16.52.34:240][ 10]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.04.21-17.52.34
+[2019.04.21-16.52.34:241][ 10]LogWorld: Bringing up level for play took: 0.007108
+[2019.04.21-16.52.34:254][ 10]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-16.52.34:254][ 10]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-16.52.34:254][ 10]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-16.52.34:256][ 10]LogHMD: SetSpectatorScreenMode(7).
+[2019.04.21-16.52.34:256][ 10]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-16.52.34:265][ 10]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.254
+[2019.04.21-16.52.34:266][ 10]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.52.34:268][ 10]LogEngine: Changing dynamic resolution state.
+[2019.04.21-16.52.34:371][ 10]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-16.52.34:371][ 10]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2019.04.21-16.52.42:454][699]LogBlueprintUserMessages: [PlasmaBolt_C_0] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.52.43:331][778]LogBlueprintUserMessages: [PlasmaBolt_C_2] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.52.43:374][782]LogBlueprintUserMessages: [PlasmaBolt_C_3] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.52.43:508][794]LogBlueprintUserMessages: [PlasmaBolt_C_4] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.52.43:532][796]LogBlueprintUserMessages: [PlasmaBolt_C_1] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.52.43:719][813]LogBlueprintUserMessages: [PlasmaBolt_C_5] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.52.43:964][835]LogBlueprintUserMessages: [PlasmaBolt_C_6] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.52.44:197][856]LogBlueprintUserMessages: [PlasmaBolt_C_7] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.52.44:408][875]LogBlueprintUserMessages: [PlasmaBolt_C_8] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.52.44:641][895]LogBlueprintUserMessages: [PlasmaBolt_C_9] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.52.44:853][914]LogBlueprintUserMessages: [PlasmaBolt_C_10] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.52.45:087][935]LogBlueprintUserMessages: [PlasmaBolt_C_11] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.52.45:354][958]LogBlueprintUserMessages: [PlasmaBolt_C_12] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.52.45:631][983]LogBlueprintUserMessages: [PlasmaBolt_C_13] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.52.45:865][  4]LogBlueprintUserMessages: [PlasmaBolt_C_14] Cube8.StaticMeshComponent0 Cube
+[2019.04.21-16.52.46:076][ 23]LogBlueprintUserMessages: [PlasmaBolt_C_15] Cube8.StaticMeshComponent0 Cube
+[2019.04.21-16.52.46:299][ 43]LogBlueprintUserMessages: [PlasmaBolt_C_16] Cube8.StaticMeshComponent0 Cube
+[2019.04.21-16.52.46:543][ 65]LogBlueprintUserMessages: [PlasmaBolt_C_17] Cube8.StaticMeshComponent0 Cube
+[2019.04.21-16.52.46:787][ 87]LogBlueprintUserMessages: [PlasmaBolt_C_18] Cube8.StaticMeshComponent0 Cube
+[2019.04.21-16.52.46:987][105]LogBlueprintUserMessages: [PlasmaBolt_C_19] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.52.47:209][125]LogBlueprintUserMessages: [PlasmaBolt_C_20] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.52.47:432][145]LogBlueprintUserMessages: [PlasmaBolt_C_21] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.52.47:643][164]LogBlueprintUserMessages: [PlasmaBolt_C_22] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.52.47:866][184]LogBlueprintUserMessages: [PlasmaBolt_C_23] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.52.48:110][206]LogBlueprintUserMessages: [PlasmaBolt_C_24] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.52.48:345][227]LogBlueprintUserMessages: [PlasmaBolt_C_25] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.52.48:599][248]LogBlueprintUserMessages: [PlasmaBolt_C_26] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.52.48:834][269]LogBlueprintUserMessages: [PlasmaBolt_C_27] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.52.49:055][288]LogBlueprintUserMessages: [PlasmaBolt_C_28] Cube_2.StaticMeshComponent0 Cube
+[2019.04.21-16.52.49:309][307]LogBlueprintUserMessages: [PlasmaBolt_C_29] Cube_2.StaticMeshComponent0 Cube
+[2019.04.21-16.52.49:543][328]LogBlueprintUserMessages: [PlasmaBolt_C_30] Cube_2.StaticMeshComponent0 Cube
+[2019.04.21-16.52.49:811][352]LogBlueprintUserMessages: [PlasmaBolt_C_31] Cube_2.StaticMeshComponent0 Cube
+[2019.04.21-16.52.50:077][376]LogBlueprintUserMessages: [PlasmaBolt_C_32] Cube2_2.StaticMeshComponent0 Cube
+[2019.04.21-16.52.50:378][403]LogBlueprintUserMessages: [PlasmaBolt_C_33] 
+[2019.04.21-16.52.50:722][434]LogBlueprintUserMessages: [PlasmaBolt_C_34] 
+[2019.04.21-16.52.55:778][889]LogBlueprintUserMessages: [PlasmaBolt_C_35] Cube_2.StaticMeshComponent0 Cube
+[2019.04.21-16.53.05:725][783]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.53.05:801][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.53.05:904][783]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.21-16.53.05:947][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.21-16.53.05:948][783]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.53.06:128][784]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.04.21-16.53.06:128][784]LogEngine: Changing dynamic resolution state.
+[2019.04.21-16.53.53:141][819]BlueprintLog: New page: Compile Rifle
+[2019.04.21-16.54.29:963][984]BlueprintLog: New page: Compile Rifle
+[2019.04.21-16.54.30:633][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2019.04.21-16.54.30:825][  6]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Rifle393D2ADD4BAA73862514BD9B1775C65A.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2019.04.21-16.54.34:715][350]LogTemp: Repeating last play command: VR Preview
+[2019.04.21-16.54.34:737][350]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.54.34:737][350]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.21-16.54.34:737][350]LogHMD: Initializing OVRPlugin session
+[2019.04.21-16.54.34:778][350]PIE: New page: PIE session: MotionControllerMap (21 Apr 2019 18:54:34)
+[2019.04.21-16.54.34:778][350]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.04.21-16.54.34:786][350]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007250s)
+[2019.04.21-16.54.34:786][350]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.04.21-16.54.34:787][350]LogPlayLevel: PIE: World Init took: (0.000753s)
+[2019.04.21-16.54.34:787][350]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008205s)
+[2019.04.21-16.54.34:847][350]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.21-16.54.34:858][350]LogInit: FAudioDevice initialized.
+[2019.04.21-16.54.34:879][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.54.34:993][350]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2019.04.21-16.54.35:025][350]LogLoad: Game class is 'VRGameMode_C'
+[2019.04.21-16.54.35:030][350]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.04.21-17.54.35
+[2019.04.21-16.54.35:031][350]LogWorld: Bringing up level for play took: 0.005733
+[2019.04.21-16.54.35:043][350]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-16.54.35:043][350]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-16.54.35:043][350]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-16.54.35:046][350]LogHMD: SetSpectatorScreenMode(7).
+[2019.04.21-16.54.35:046][350]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-16.54.35:054][350]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.043
+[2019.04.21-16.54.35:054][350]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.54.35:056][350]LogEngine: Changing dynamic resolution state.
+[2019.04.21-16.54.35:092][350]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-16.54.35:092][350]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2019.04.21-16.54.47:704][456]LogBlueprintUserMessages: [PlasmaBolt_C_0] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.54.48:346][514]LogBlueprintUserMessages: [PlasmaBolt_C_1] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.54.49:413][610]LogBlueprintUserMessages: [PlasmaBolt_C_2] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.54.50:269][687]LogBlueprintUserMessages: [PlasmaBolt_C_3] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.54.50:614][718]LogBlueprintUserMessages: [PlasmaBolt_C_4] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.50:868][741]LogBlueprintUserMessages: [PlasmaBolt_C_5] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.51:868][831]LogBlueprintUserMessages: [PlasmaBolt_C_6] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.51:869][831]LogBlueprintUserMessages: [PlasmaBolt_C_7] Cube5.StaticMeshComponent0 Cube
+[2019.04.21-16.54.52:492][887]LogBlueprintUserMessages: [PlasmaBolt_C_8] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.52:823][917]LogBlueprintUserMessages: [PlasmaBolt_C_9] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.53:201][951]LogBlueprintUserMessages: [PlasmaBolt_C_10] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.53:478][976]LogBlueprintUserMessages: [PlasmaBolt_C_11] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.53:678][994]LogBlueprintUserMessages: [PlasmaBolt_C_12] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.53:856][ 10]LogBlueprintUserMessages: [PlasmaBolt_C_13] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.54:012][ 24]LogBlueprintUserMessages: [PlasmaBolt_C_14] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.54:190][ 40]LogBlueprintUserMessages: [PlasmaBolt_C_15] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.54:333][ 53]LogBlueprintUserMessages: [PlasmaBolt_C_16] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.54:523][ 70]LogBlueprintUserMessages: [PlasmaBolt_C_17] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.54:680][ 84]LogBlueprintUserMessages: [PlasmaBolt_C_18] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.54:870][101]LogBlueprintUserMessages: [PlasmaBolt_C_19] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.55:013][114]LogBlueprintUserMessages: [PlasmaBolt_C_20] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.55:200][131]LogBlueprintUserMessages: [PlasmaBolt_C_21] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.55:390][148]LogBlueprintUserMessages: [PlasmaBolt_C_22] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.55:969][200]LogBlueprintUserMessages: [PlasmaBolt_C_23] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.56:158][217]LogBlueprintUserMessages: [PlasmaBolt_C_24] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.56:347][234]LogBlueprintUserMessages: [PlasmaBolt_C_25] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.56:547][252]LogBlueprintUserMessages: [PlasmaBolt_C_26] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.56:814][276]LogBlueprintUserMessages: [PlasmaBolt_C_28] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.54.57:080][300]LogBlueprintUserMessages: [PlasmaBolt_C_27] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.54.57:237][314]LogBlueprintUserMessages: [PlasmaBolt_C_29] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.54.57:524][340]LogBlueprintUserMessages: [PlasmaBolt_C_30] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.54.57:791][364]LogBlueprintUserMessages: [PlasmaBolt_C_31] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.54.58:102][392]LogBlueprintUserMessages: [PlasmaBolt_C_32] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.54.58:437][422]LogBlueprintUserMessages: [PlasmaBolt_C_33] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.54.58:814][456]LogBlueprintUserMessages: [PlasmaBolt_C_34] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.54.59:135][485]LogBlueprintUserMessages: [PlasmaBolt_C_35] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.54.59:547][522]LogBlueprintUserMessages: [PlasmaBolt_C_36] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.54.59:846][549]LogBlueprintUserMessages: [PlasmaBolt_C_37] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.55.00:091][571]LogBlueprintUserMessages: [PlasmaBolt_C_38] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.55.00:314][591]LogBlueprintUserMessages: [PlasmaBolt_C_39] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.55.00:402][599]LogBlueprintUserMessages: [PlasmaBolt_C_40] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.55.00:613][618]LogBlueprintUserMessages: [PlasmaBolt_C_41] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.55.00:769][632]LogBlueprintUserMessages: [PlasmaBolt_C_42] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.55.01:025][655]LogBlueprintUserMessages: [PlasmaBolt_C_43] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.55.01:637][710]LogBlueprintUserMessages: [PlasmaBolt_C_44] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.55.03:859][910]LogBlueprintUserMessages: [PlasmaBolt_C_45] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.13:533][780]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.55.13:606][780]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.55.13:693][780]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.21-16.55.13:732][780]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.21-16.55.13:732][780]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.55.13:838][781]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.04.21-16.55.13:838][781]LogEngine: Changing dynamic resolution state.
+[2019.04.21-16.55.34:471][591]BlueprintLog: New page: Compile Rifle
+[2019.04.21-16.55.35:112][612]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2019.04.21-16.55.35:317][612]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Rifle9591427D40E42C38B7BED889067E86F7.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2019.04.21-16.55.36:186][675]LogTemp: Repeating last play command: VR Preview
+[2019.04.21-16.55.36:213][675]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.55.36:213][675]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.21-16.55.36:213][675]LogHMD: Initializing OVRPlugin session
+[2019.04.21-16.55.36:252][675]PIE: New page: PIE session: MotionControllerMap (21 Apr 2019 18:55:36)
+[2019.04.21-16.55.36:253][675]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.04.21-16.55.36:262][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009448s)
+[2019.04.21-16.55.36:263][675]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.04.21-16.55.36:263][675]LogPlayLevel: PIE: World Init took: (0.000819s)
+[2019.04.21-16.55.36:263][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010494s)
+[2019.04.21-16.55.36:324][675]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.21-16.55.36:335][675]LogInit: FAudioDevice initialized.
+[2019.04.21-16.55.36:355][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.55.36:473][675]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2019.04.21-16.55.36:503][675]LogLoad: Game class is 'VRGameMode_C'
+[2019.04.21-16.55.36:509][675]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.04.21-17.55.36
+[2019.04.21-16.55.36:509][675]LogWorld: Bringing up level for play took: 0.005903
+[2019.04.21-16.55.36:522][675]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-16.55.36:522][675]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-16.55.36:522][675]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-16.55.36:525][675]LogHMD: SetSpectatorScreenMode(7).
+[2019.04.21-16.55.36:525][675]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-16.55.36:532][675]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.52
+[2019.04.21-16.55.36:532][675]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.55.36:534][675]LogEngine: Changing dynamic resolution state.
+[2019.04.21-16.55.36:572][675]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-16.55.36:572][675]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2019.04.21-16.55.42:272][159]LogBlueprintUserMessages: [PlasmaBolt_C_0] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.55.42:836][209]LogBlueprintUserMessages: [PlasmaBolt_C_1] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.55.43:071][230]LogBlueprintUserMessages: [PlasmaBolt_C_2] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.55.43:735][290]LogBlueprintUserMessages: [PlasmaBolt_C_3] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.43:914][306]LogBlueprintUserMessages: [PlasmaBolt_C_4] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.44:082][321]LogBlueprintUserMessages: [PlasmaBolt_C_5] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.44:247][336]LogBlueprintUserMessages: [PlasmaBolt_C_6] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.44:426][352]LogBlueprintUserMessages: [PlasmaBolt_C_7] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.44:615][369]LogBlueprintUserMessages: [PlasmaBolt_C_8] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.45:170][419]LogBlueprintUserMessages: [PlasmaBolt_C_9] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.45:415][441]LogBlueprintUserMessages: [PlasmaBolt_C_10] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.45:514][450]LogBlueprintUserMessages: [PlasmaBolt_C_12] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.55.45:515][450]LogBlueprintUserMessages: [PlasmaBolt_C_13] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.55.45:626][460]LogBlueprintUserMessages: [PlasmaBolt_C_11] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.45:760][472]LogBlueprintUserMessages: [PlasmaBolt_C_14] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.55.46:038][497]LogBlueprintUserMessages: [PlasmaBolt_C_15] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.55.46:404][530]LogBlueprintUserMessages: [PlasmaBolt_C_16] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.55.46:837][569]LogBlueprintUserMessages: [PlasmaBolt_C_17] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.55.48:238][695]LogBlueprintUserMessages: [PlasmaBolt_C_18] Cube5.StaticMeshComponent0 Cube
+[2019.04.21-16.55.48:616][729]LogBlueprintUserMessages: [PlasmaBolt_C_19] Cube5.StaticMeshComponent0 Cube
+[2019.04.21-16.55.49:237][785]LogBlueprintUserMessages: [PlasmaBolt_C_20] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.49:593][817]LogBlueprintUserMessages: [PlasmaBolt_C_21] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.49:949][849]LogBlueprintUserMessages: [PlasmaBolt_C_22] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.50:337][884]LogBlueprintUserMessages: [PlasmaBolt_C_23] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.50:760][922]LogBlueprintUserMessages: [PlasmaBolt_C_24] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.51:161][958]LogBlueprintUserMessages: [PlasmaBolt_C_25] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.51:560][994]LogBlueprintUserMessages: [PlasmaBolt_C_26] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.52:205][ 52]LogBlueprintUserMessages: [PlasmaBolt_C_27] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.52:837][109]LogBlueprintUserMessages: [PlasmaBolt_C_28] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.53:281][149]LogBlueprintUserMessages: [PlasmaBolt_C_29] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.53:671][184]LogBlueprintUserMessages: [PlasmaBolt_C_30] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.53:871][202]LogBlueprintUserMessages: [PlasmaBolt_C_31] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.54:015][215]LogBlueprintUserMessages: [PlasmaBolt_C_34] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.55.54:092][222]LogBlueprintUserMessages: [PlasmaBolt_C_32] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.54:303][241]LogBlueprintUserMessages: [PlasmaBolt_C_33] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.54:994][303]LogBlueprintUserMessages: [PlasmaBolt_C_35] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.55:204][322]LogBlueprintUserMessages: [PlasmaBolt_C_36] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.55:415][341]LogBlueprintUserMessages: [PlasmaBolt_C_37] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.55:604][358]LogBlueprintUserMessages: [PlasmaBolt_C_38] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.55:815][377]LogBlueprintUserMessages: [PlasmaBolt_C_39] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.56:014][395]LogBlueprintUserMessages: [PlasmaBolt_C_40] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.56:203][412]LogBlueprintUserMessages: [PlasmaBolt_C_41] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.56:414][431]LogBlueprintUserMessages: [PlasmaBolt_C_42] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.56:614][449]LogBlueprintUserMessages: [PlasmaBolt_C_43] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.56:816][467]LogBlueprintUserMessages: [PlasmaBolt_C_44] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.56:993][483]LogBlueprintUserMessages: [PlasmaBolt_C_45] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.57:216][503]LogBlueprintUserMessages: [PlasmaBolt_C_46] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.57:428][522]LogBlueprintUserMessages: [PlasmaBolt_C_47] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.57:938][568]LogBlueprintUserMessages: [PlasmaBolt_C_48] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.58:726][639]LogBlueprintUserMessages: [PlasmaBolt_C_49] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.55.59:149][677]LogBlueprintUserMessages: [PlasmaBolt_C_50] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.55.59:603][718]LogBlueprintUserMessages: [PlasmaBolt_C_51] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.55.59:858][741]LogBlueprintUserMessages: [PlasmaBolt_C_52] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.56.00:047][758]LogBlueprintUserMessages: [PlasmaBolt_C_53] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.56.00:271][778]LogBlueprintUserMessages: [PlasmaBolt_C_54] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.56.00:459][795]LogBlueprintUserMessages: [PlasmaBolt_C_55] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.56.00:647][812]LogBlueprintUserMessages: [PlasmaBolt_C_56] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.56.00:837][829]LogBlueprintUserMessages: [PlasmaBolt_C_57] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.56.01:004][844]LogBlueprintUserMessages: [PlasmaBolt_C_58] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.56.01:148][857]LogBlueprintUserMessages: [PlasmaBolt_C_59] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.56.01:304][871]LogBlueprintUserMessages: [PlasmaBolt_C_60] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.56.01:459][885]LogBlueprintUserMessages: [PlasmaBolt_C_61] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.56.01:624][900]LogBlueprintUserMessages: [PlasmaBolt_C_62] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.56.01:939][928]LogBlueprintUserMessages: [PlasmaBolt_C_64] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.56.02:049][938]LogBlueprintUserMessages: [PlasmaBolt_C_63] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.56.02:116][944]LogBlueprintUserMessages: [PlasmaBolt_C_65] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.56.04:529][160]LogBlueprintUserMessages: [PlasmaBolt_C_66] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.56.04:828][187]LogBlueprintUserMessages: [PlasmaBolt_C_67] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.56.05:172][218]LogBlueprintUserMessages: [PlasmaBolt_C_68] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.56.09:001][562]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.56.09:070][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.56.09:170][562]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.21-16.56.09:205][562]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.21-16.56.09:206][562]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.56.09:296][563]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.04.21-16.56.09:297][563]LogEngine: Changing dynamic resolution state.
+[2019.04.21-16.57.02:751][118]BlueprintLog: New page: Compile Rifle
+[2019.04.21-16.57.03:460][144]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2019.04.21-16.57.03:657][144]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Rifle66F8D21E416FC22442CCBA8A4CA18997.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2019.04.21-16.57.05:307][282]LogTemp: Repeating last play command: VR Preview
+[2019.04.21-16.57.05:330][282]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.57.05:330][282]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.21-16.57.05:330][282]LogHMD: Initializing OVRPlugin session
+[2019.04.21-16.57.05:365][282]PIE: New page: PIE session: MotionControllerMap (21 Apr 2019 18:57:05)
+[2019.04.21-16.57.05:366][282]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.04.21-16.57.05:375][282]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009177s)
+[2019.04.21-16.57.05:375][282]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.04.21-16.57.05:376][282]LogPlayLevel: PIE: World Init took: (0.000913s)
+[2019.04.21-16.57.05:376][282]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.010351s)
+[2019.04.21-16.57.05:438][282]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.21-16.57.05:448][282]LogInit: FAudioDevice initialized.
+[2019.04.21-16.57.05:466][282]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.57.05:579][282]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2019.04.21-16.57.05:609][282]LogLoad: Game class is 'VRGameMode_C'
+[2019.04.21-16.57.05:615][282]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.04.21-17.57.05
+[2019.04.21-16.57.05:617][282]LogWorld: Bringing up level for play took: 0.007398
+[2019.04.21-16.57.05:629][282]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-16.57.05:630][282]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-16.57.05:630][282]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-16.57.05:633][282]LogHMD: SetSpectatorScreenMode(7).
+[2019.04.21-16.57.05:633][282]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-16.57.05:640][282]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.371
+[2019.04.21-16.57.05:641][282]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.57.05:642][282]LogEngine: Changing dynamic resolution state.
+[2019.04.21-16.57.05:682][282]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-16.57.05:682][282]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2019.04.21-16.57.12:551][871]LogBlueprintUserMessages: [PlasmaBolt_C_0] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.57.12:839][897]LogBlueprintUserMessages: [PlasmaBolt_C_1] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.57.13:472][954]LogBlueprintUserMessages: [PlasmaBolt_C_2] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.13:650][970]LogBlueprintUserMessages: [PlasmaBolt_C_3] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.13:829][986]LogBlueprintUserMessages: [PlasmaBolt_C_4] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.14:006][  2]LogBlueprintUserMessages: [PlasmaBolt_C_5] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.14:175][ 17]LogBlueprintUserMessages: [PlasmaBolt_C_6] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.14:362][ 34]LogBlueprintUserMessages: [PlasmaBolt_C_7] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.14:895][ 82]LogBlueprintUserMessages: [PlasmaBolt_C_8] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.57.15:383][126]LogBlueprintUserMessages: [PlasmaBolt_C_9] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.57.15:916][174]LogBlueprintUserMessages: [PlasmaBolt_C_10] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.16:094][190]LogBlueprintUserMessages: [PlasmaBolt_C_11] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.16:427][220]LogBlueprintUserMessages: [PlasmaBolt_C_12] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.16:606][236]LogBlueprintUserMessages: [PlasmaBolt_C_13] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.16:738][248]LogBlueprintUserMessages: [PlasmaBolt_C_14] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.16:905][263]LogBlueprintUserMessages: [PlasmaBolt_C_15] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.17:071][278]LogBlueprintUserMessages: [PlasmaBolt_C_16] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.17:261][295]LogBlueprintUserMessages: [PlasmaBolt_C_17] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.17:438][311]LogBlueprintUserMessages: [PlasmaBolt_C_18] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.17:628][328]LogBlueprintUserMessages: [PlasmaBolt_C_19] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.17:818][345]LogBlueprintUserMessages: [PlasmaBolt_C_20] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.18:007][362]LogBlueprintUserMessages: [PlasmaBolt_C_21] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.18:218][381]LogBlueprintUserMessages: [PlasmaBolt_C_22] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.18:584][414]LogBlueprintUserMessages: [PlasmaBolt_C_23] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.19:007][452]LogBlueprintUserMessages: [PlasmaBolt_C_24] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.19:329][481]LogBlueprintUserMessages: [PlasmaBolt_C_25] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-16.57.22:147][734]LogBlueprintUserMessages: [PlasmaBolt_C_26] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.57.22:910][802]LogBlueprintUserMessages: [PlasmaBolt_C_27] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.57.24:195][917]LogBlueprintUserMessages: [PlasmaBolt_C_28] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-16.57.25:017][991]LogBlueprintUserMessages: [PlasmaBolt_C_29] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.57.25:505][ 35]LogBlueprintUserMessages: [PlasmaBolt_C_30] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.57.25:849][ 66]LogBlueprintUserMessages: [PlasmaBolt_C_31] Cube5.StaticMeshComponent0 Cube
+[2019.04.21-16.57.26:061][ 85]LogBlueprintUserMessages: [PlasmaBolt_C_32] Cube5.StaticMeshComponent0 Cube
+[2019.04.21-16.57.26:316][108]LogBlueprintUserMessages: [PlasmaBolt_C_33] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.57.26:483][123]LogBlueprintUserMessages: [PlasmaBolt_C_34] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.57.26:594][133]LogBlueprintUserMessages: [PlasmaBolt_C_35] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.57.26:872][158]LogBlueprintUserMessages: [PlasmaBolt_C_36] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.57.26:961][166]LogBlueprintUserMessages: [PlasmaBolt_C_37] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.57.27:227][190]LogBlueprintUserMessages: [PlasmaBolt_C_38] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-16.57.27:427][208]LogBlueprintUserMessages: [PlasmaBolt_C_39] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.27:628][226]LogBlueprintUserMessages: [PlasmaBolt_C_40] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.27:795][241]LogBlueprintUserMessages: [PlasmaBolt_C_41] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.27:950][255]LogBlueprintUserMessages: [PlasmaBolt_C_42] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.28:138][272]LogBlueprintUserMessages: [PlasmaBolt_C_43] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.28:338][290]LogBlueprintUserMessages: [PlasmaBolt_C_44] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.28:872][338]LogBlueprintUserMessages: [PlasmaBolt_C_45] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.29:050][354]LogBlueprintUserMessages: [PlasmaBolt_C_46] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.29:216][369]LogBlueprintUserMessages: [PlasmaBolt_C_47] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.29:441][389]LogBlueprintUserMessages: [PlasmaBolt_C_48] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.29:627][406]LogBlueprintUserMessages: [PlasmaBolt_C_49] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.29:827][424]LogBlueprintUserMessages: [PlasmaBolt_C_50] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.30:026][442]LogBlueprintUserMessages: [PlasmaBolt_C_51] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.30:215][459]LogBlueprintUserMessages: [PlasmaBolt_C_52] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.30:427][478]LogBlueprintUserMessages: [PlasmaBolt_C_53] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.30:616][495]LogBlueprintUserMessages: [PlasmaBolt_C_54] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.30:772][509]LogBlueprintUserMessages: [PlasmaBolt_C_55] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.30:927][523]LogBlueprintUserMessages: [PlasmaBolt_C_56] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.31:126][541]LogBlueprintUserMessages: [PlasmaBolt_C_57] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.31:317][558]LogBlueprintUserMessages: [PlasmaBolt_C_58] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.31:516][576]LogBlueprintUserMessages: [PlasmaBolt_C_59] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.31:717][594]LogBlueprintUserMessages: [PlasmaBolt_C_60] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.31:905][611]LogBlueprintUserMessages: [PlasmaBolt_C_61] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.32:095][628]LogBlueprintUserMessages: [PlasmaBolt_C_62] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.32:484][663]LogBlueprintUserMessages: [PlasmaBolt_C_63] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.32:685][681]LogBlueprintUserMessages: [PlasmaBolt_C_64] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.33:084][717]LogBlueprintUserMessages: [PlasmaBolt_C_65] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.33:751][777]LogBlueprintUserMessages: [PlasmaBolt_C_66] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.33:952][795]LogBlueprintUserMessages: [PlasmaBolt_C_67] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.34:140][812]LogBlueprintUserMessages: [PlasmaBolt_C_68] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.34:319][828]LogBlueprintUserMessages: [PlasmaBolt_C_69] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-16.57.39:747][314]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.57.39:819][314]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-16.57.39:921][314]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.21-16.57.39:958][314]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.21-16.57.39:959][314]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-16.57.40:064][315]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.04.21-16.57.40:064][315]LogEngine: Changing dynamic resolution state.
+[2019.04.21-16.58.45:852][580]BlueprintLog: New page: Compile Rifle
+[2019.04.21-16.58.46:560][602]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2019.04.21-16.58.46:760][602]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/RifleD32A22A046083FC0F1380B94A5584459.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2019.04.21-17.00.36:162][956]BlueprintLog: New page: Compile Rifle
+[2019.04.21-17.00.36:933][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2019.04.21-17.00.37:134][974]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/RifleF9983298487C682B4B12838740254305.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2019.04.21-17.00.38:264][ 43]LogTemp: Repeating last play command: VR Preview
+[2019.04.21-17.00.38:297][ 43]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.00.38:297][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.21-17.00.38:298][ 43]LogHMD: Initializing OVRPlugin session
+[2019.04.21-17.00.38:335][ 43]PIE: New page: PIE session: MotionControllerMap (21 Apr 2019 19:00:38)
+[2019.04.21-17.00.38:335][ 43]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.04.21-17.00.38:344][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008369s)
+[2019.04.21-17.00.38:344][ 43]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.04.21-17.00.38:345][ 43]LogPlayLevel: PIE: World Init took: (0.001043s)
+[2019.04.21-17.00.38:345][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.009634s)
+[2019.04.21-17.00.38:405][ 43]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.21-17.00.38:415][ 43]LogInit: FAudioDevice initialized.
+[2019.04.21-17.00.38:434][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-17.00.38:546][ 43]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2019.04.21-17.00.38:576][ 43]LogLoad: Game class is 'VRGameMode_C'
+[2019.04.21-17.00.38:582][ 43]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.04.21-18.00.38
+[2019.04.21-17.00.38:582][ 43]LogWorld: Bringing up level for play took: 0.005999
+[2019.04.21-17.00.38:594][ 43]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-17.00.38:595][ 43]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-17.00.38:595][ 43]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-17.00.38:598][ 43]LogHMD: SetSpectatorScreenMode(7).
+[2019.04.21-17.00.38:598][ 43]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-17.00.38:603][ 43]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 0.591
+[2019.04.21-17.00.38:603][ 43]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.00.38:604][ 43]LogEngine: Changing dynamic resolution state.
+[2019.04.21-17.00.38:692][ 43]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-17.00.38:692][ 43]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2019.04.21-17.00.46:167][678]LogBlueprintUserMessages: [PlasmaBolt_C_1] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.00.46:368][696]LogBlueprintUserMessages: [PlasmaBolt_C_2] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.00.46:490][707]LogBlueprintUserMessages: [PlasmaBolt_C_0] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.00.49:069][939]LogBlueprintUserMessages: [PlasmaBolt_C_3] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.00.50:790][ 94]LogBlueprintUserMessages: [PlasmaBolt_C_5] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.00.50:881][102]LogBlueprintUserMessages: [PlasmaBolt_C_6] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.00.51:146][126]LogBlueprintUserMessages: [PlasmaBolt_C_4] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.00.51:312][141]LogBlueprintUserMessages: [PlasmaBolt_C_7] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.00.51:412][150]LogBlueprintUserMessages: [PlasmaBolt_C_8] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.00.51:556][163]LogBlueprintUserMessages: [PlasmaBolt_C_9] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.00.51:744][180]LogBlueprintUserMessages: [PlasmaBolt_C_10] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.00.51:889][193]LogBlueprintUserMessages: [PlasmaBolt_C_11] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.00.52:056][208]LogBlueprintUserMessages: [PlasmaBolt_C_12] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.00.52:212][221]LogBlueprintUserMessages: [PlasmaBolt_C_13] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.00.52:434][241]LogBlueprintUserMessages: [PlasmaBolt_C_14] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.00.52:569][253]LogBlueprintUserMessages: [PlasmaBolt_C_15] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.00.52:746][269]LogBlueprintUserMessages: [PlasmaBolt_C_16] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.00.57:690][713]LogBlueprintUserMessages: [PlasmaBolt_C_17] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.00.57:980][739]LogBlueprintUserMessages: [PlasmaBolt_C_18] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.00.58:279][766]LogBlueprintUserMessages: [PlasmaBolt_C_19] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.00.58:689][802]LogBlueprintUserMessages: [PlasmaBolt_C_20] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.00.59:057][835]LogBlueprintUserMessages: [PlasmaBolt_C_21] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.00.59:246][852]LogBlueprintUserMessages: [PlasmaBolt_C_22] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.00.59:434][869]LogBlueprintUserMessages: [PlasmaBolt_C_23] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.00.59:613][884]LogBlueprintUserMessages: [PlasmaBolt_C_24] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.00.59:769][898]LogBlueprintUserMessages: [PlasmaBolt_C_25] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.00:123][929]LogBlueprintUserMessages: [PlasmaBolt_C_26] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.00:280][943]LogBlueprintUserMessages: [PlasmaBolt_C_27] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.00:592][970]LogBlueprintUserMessages: [PlasmaBolt_C_28] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.00:802][988]LogBlueprintUserMessages: [PlasmaBolt_C_29] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.00:979][  4]LogBlueprintUserMessages: [PlasmaBolt_C_30] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.01:155][ 20]LogBlueprintUserMessages: [PlasmaBolt_C_31] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.01:324][ 35]LogBlueprintUserMessages: [PlasmaBolt_C_32] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.01:492][ 50]LogBlueprintUserMessages: [PlasmaBolt_C_33] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.01:681][ 66]LogBlueprintUserMessages: [PlasmaBolt_C_34] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.01:847][ 81]LogBlueprintUserMessages: [PlasmaBolt_C_35] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.02:047][ 99]LogBlueprintUserMessages: [PlasmaBolt_C_36] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.02:660][153]LogBlueprintUserMessages: [PlasmaBolt_C_37] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.03:014][185]LogBlueprintUserMessages: [PlasmaBolt_C_38] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.04:045][277]LogBlueprintUserMessages: [PlasmaBolt_C_39] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.04:256][296]LogBlueprintUserMessages: [PlasmaBolt_C_40] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.04:467][314]LogBlueprintUserMessages: [PlasmaBolt_C_41] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.04:657][331]LogBlueprintUserMessages: [PlasmaBolt_C_42] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.04:848][348]LogBlueprintUserMessages: [PlasmaBolt_C_43] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.05:035][365]LogBlueprintUserMessages: [PlasmaBolt_C_44] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.05:224][382]LogBlueprintUserMessages: [PlasmaBolt_C_45] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.05:403][398]LogBlueprintUserMessages: [PlasmaBolt_C_46] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.05:869][440]LogBlueprintUserMessages: [PlasmaBolt_C_47] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.06:525][499]LogBlueprintUserMessages: [PlasmaBolt_C_48] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.07:547][591]LogBlueprintUserMessages: [PlasmaBolt_C_49] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.07:792][613]LogBlueprintUserMessages: [PlasmaBolt_C_50] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.08:136][644]LogBlueprintUserMessages: [PlasmaBolt_C_51] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.08:481][675]LogBlueprintUserMessages: [PlasmaBolt_C_52] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.08:814][705]LogBlueprintUserMessages: [PlasmaBolt_C_53] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.09:181][737]LogBlueprintUserMessages: [PlasmaBolt_C_54] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.09:559][771]LogBlueprintUserMessages: [PlasmaBolt_C_55] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.11:995][990]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.01.12:073][990]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-17.01.12:181][990]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.21-17.01.12:228][990]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.21-17.01.12:228][990]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.01.12:383][991]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.04.21-17.01.12:384][991]LogEngine: Changing dynamic resolution state.
+[2019.04.21-17.01.26:026][ 76]BlueprintLog: New page: Compile Rifle
+[2019.04.21-17.01.27:294][141]LogTemp: Repeating last play command: VR Preview
+[2019.04.21-17.01.27:318][141]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.01.27:319][141]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.21-17.01.27:319][141]LogHMD: Initializing OVRPlugin session
+[2019.04.21-17.01.27:357][141]PIE: New page: PIE session: MotionControllerMap (21 Apr 2019 19:01:27)
+[2019.04.21-17.01.27:358][141]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.04.21-17.01.27:365][141]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007613s)
+[2019.04.21-17.01.27:366][141]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.04.21-17.01.27:366][141]LogPlayLevel: PIE: World Init took: (0.000977s)
+[2019.04.21-17.01.27:367][141]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.008883s)
+[2019.04.21-17.01.27:433][141]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.21-17.01.27:444][141]LogInit: FAudioDevice initialized.
+[2019.04.21-17.01.27:462][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-17.01.27:569][141]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2019.04.21-17.01.27:600][141]LogLoad: Game class is 'VRGameMode_C'
+[2019.04.21-17.01.27:606][141]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.04.21-18.01.27
+[2019.04.21-17.01.27:606][141]LogWorld: Bringing up level for play took: 0.005652
+[2019.04.21-17.01.27:618][141]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-17.01.27:618][141]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-17.01.27:619][141]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-17.01.27:622][141]LogHMD: SetSpectatorScreenMode(7).
+[2019.04.21-17.01.27:622][141]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-17.01.27:630][141]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap -0.382
+[2019.04.21-17.01.27:630][141]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.01.27:632][141]LogEngine: Changing dynamic resolution state.
+[2019.04.21-17.01.27:679][141]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-17.01.27:679][141]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2019.04.21-17.01.33:335][626]LogBlueprintUserMessages: [PlasmaBolt_C_1] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.33:358][628]LogBlueprintUserMessages: [PlasmaBolt_C_0] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.34:657][744]LogBlueprintUserMessages: [PlasmaBolt_C_2] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.35:245][797]LogBlueprintUserMessages: [PlasmaBolt_C_4] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.35:301][802]LogBlueprintUserMessages: [PlasmaBolt_C_5] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.35:445][815]LogBlueprintUserMessages: [PlasmaBolt_C_6] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.35:501][820]LogBlueprintUserMessages: [PlasmaBolt_C_3] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.35:590][828]LogBlueprintUserMessages: [PlasmaBolt_C_7] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.35:768][844]LogBlueprintUserMessages: [PlasmaBolt_C_8] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.35:934][859]LogBlueprintUserMessages: [PlasmaBolt_C_9] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.36:090][873]LogBlueprintUserMessages: [PlasmaBolt_C_10] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.36:292][891]LogBlueprintUserMessages: [PlasmaBolt_C_11] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.37:058][959]LogBlueprintUserMessages: [PlasmaBolt_C_13] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.37:212][973]LogBlueprintUserMessages: [PlasmaBolt_C_14] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.37:346][985]LogBlueprintUserMessages: [PlasmaBolt_C_15] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.37:412][991]LogBlueprintUserMessages: [PlasmaBolt_C_12] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.37:511][  0]LogBlueprintUserMessages: [PlasmaBolt_C_16] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.37:713][ 18]LogBlueprintUserMessages: [PlasmaBolt_C_17] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.01.39:591][187]LogBlueprintUserMessages: [PlasmaBolt_C_18] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.39:801][206]LogBlueprintUserMessages: [PlasmaBolt_C_19] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.39:990][223]LogBlueprintUserMessages: [PlasmaBolt_C_20] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.40:512][270]LogBlueprintUserMessages: [PlasmaBolt_C_21] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.40:778][294]LogBlueprintUserMessages: [PlasmaBolt_C_22] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.41:003][314]LogBlueprintUserMessages: [PlasmaBolt_C_23] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.41:202][332]LogBlueprintUserMessages: [PlasmaBolt_C_24] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.41:379][348]LogBlueprintUserMessages: [PlasmaBolt_C_25] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.41:570][365]LogBlueprintUserMessages: [PlasmaBolt_C_26] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.41:991][403]LogBlueprintUserMessages: [PlasmaBolt_C_27] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.42:157][418]LogBlueprintUserMessages: [PlasmaBolt_C_28] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.42:536][452]LogBlueprintUserMessages: [PlasmaBolt_C_29] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.42:848][480]LogBlueprintUserMessages: [PlasmaBolt_C_30] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.43:137][506]LogBlueprintUserMessages: [PlasmaBolt_C_31] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.01.45:565][724]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.01.45:637][724]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-17.01.45:730][724]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.21-17.01.45:770][724]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.21-17.01.45:771][724]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.01.45:858][725]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.04.21-17.01.45:859][725]LogEngine: Changing dynamic resolution state.
+[2019.04.21-17.02.06:599][320]LogTemp: Repeating last play command: VR Preview
+[2019.04.21-17.02.06:618][320]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.02.06:619][320]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.04.21-17.02.06:678][320]LogPlayLevel: [PlayLevel] Compiling Rifle before play...
+[2019.04.21-17.02.06:984][320]LogPlayLevel: PlayLevel: Blueprint regeneration took 365 ms (1 blueprints)
+[2019.04.21-17.02.06:985][320]LogHMD: Initializing OVRPlugin session
+[2019.04.21-17.02.07:028][320]PIE: New page: PIE session: MotionControllerMap (21 Apr 2019 19:02:07)
+[2019.04.21-17.02.07:029][320]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.04.21-17.02.07:039][320]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010044s)
+[2019.04.21-17.02.07:039][320]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.04.21-17.02.07:040][320]LogPlayLevel: PIE: World Init took: (0.000954s)
+[2019.04.21-17.02.07:040][320]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.011256s)
+[2019.04.21-17.02.07:097][320]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.21-17.02.07:109][320]LogInit: FAudioDevice initialized.
+[2019.04.21-17.02.07:129][320]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-17.02.07:239][320]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2019.04.21-17.02.07:269][320]LogLoad: Game class is 'VRGameMode_C'
+[2019.04.21-17.02.07:275][320]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.04.21-18.02.07
+[2019.04.21-17.02.07:276][320]LogWorld: Bringing up level for play took: 0.006344
+[2019.04.21-17.02.07:289][320]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-17.02.07:289][320]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-17.02.07:289][320]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-17.02.07:292][320]LogHMD: SetSpectatorScreenMode(7).
+[2019.04.21-17.02.07:292][320]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-17.02.07:299][320]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.288
+[2019.04.21-17.02.07:300][320]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.02.07:301][320]LogEngine: Changing dynamic resolution state.
+[2019.04.21-17.02.07:353][320]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-17.02.07:353][320]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2019.04.21-17.02.13:138][813]LogBlueprintUserMessages: [PlasmaBolt_C_0] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-17.02.14:094][899]LogBlueprintUserMessages: [PlasmaBolt_C_1] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.14:295][917]LogBlueprintUserMessages: [PlasmaBolt_C_2] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.14:503][936]LogBlueprintUserMessages: [PlasmaBolt_C_3] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.14:681][952]LogBlueprintUserMessages: [PlasmaBolt_C_4] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.15:302][  8]LogBlueprintUserMessages: [PlasmaBolt_C_5] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.15:492][ 23]LogBlueprintUserMessages: [PlasmaBolt_C_6] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.15:692][ 41]LogBlueprintUserMessages: [PlasmaBolt_C_7] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.15:880][ 58]LogBlueprintUserMessages: [PlasmaBolt_C_8] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.16:070][ 75]LogBlueprintUserMessages: [PlasmaBolt_C_9] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.16:259][ 92]LogBlueprintUserMessages: [PlasmaBolt_C_10] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.16:459][110]LogBlueprintUserMessages: [PlasmaBolt_C_11] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.16:660][128]LogBlueprintUserMessages: [PlasmaBolt_C_12] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.17:116][169]LogBlueprintUserMessages: [PlasmaBolt_C_13] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.18:139][261]LogBlueprintUserMessages: [PlasmaBolt_C_14] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.18:948][334]LogBlueprintUserMessages: [PlasmaBolt_C_15] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.19:370][372]LogBlueprintUserMessages: [PlasmaBolt_C_16] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.19:658][398]LogBlueprintUserMessages: [PlasmaBolt_C_17] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.19:893][419]LogBlueprintUserMessages: [PlasmaBolt_C_18] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.20:104][438]LogBlueprintUserMessages: [PlasmaBolt_C_19] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.20:326][458]LogBlueprintUserMessages: [PlasmaBolt_C_20] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.20:537][477]LogBlueprintUserMessages: [PlasmaBolt_C_21] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.20:772][498]LogBlueprintUserMessages: [PlasmaBolt_C_22] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.21:004][519]LogBlueprintUserMessages: [PlasmaBolt_C_23] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.21:238][540]LogBlueprintUserMessages: [PlasmaBolt_C_24] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.21:770][588]LogBlueprintUserMessages: [PlasmaBolt_C_25] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.22:236][630]LogBlueprintUserMessages: [PlasmaBolt_C_26] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.22:692][671]LogBlueprintUserMessages: [PlasmaBolt_C_27] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.22:903][690]LogBlueprintUserMessages: [PlasmaBolt_C_28] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.23:114][709]LogBlueprintUserMessages: [PlasmaBolt_C_29] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.23:303][726]LogBlueprintUserMessages: [PlasmaBolt_C_30] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.23:514][745]LogBlueprintUserMessages: [PlasmaBolt_C_31] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.23:692][761]LogBlueprintUserMessages: [PlasmaBolt_C_32] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.23:882][778]LogBlueprintUserMessages: [PlasmaBolt_C_33] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.24:060][794]LogBlueprintUserMessages: [PlasmaBolt_C_34] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.24:215][808]LogBlueprintUserMessages: [PlasmaBolt_C_35] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.24:380][823]LogBlueprintUserMessages: [PlasmaBolt_C_36] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.24:560][839]LogBlueprintUserMessages: [PlasmaBolt_C_37] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.24:727][854]LogBlueprintUserMessages: [PlasmaBolt_C_38] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.24:916][871]LogBlueprintUserMessages: [PlasmaBolt_C_39] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.25:293][905]LogBlueprintUserMessages: [PlasmaBolt_C_40] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.25:860][956]LogBlueprintUserMessages: [PlasmaBolt_C_41] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.27:316][ 87]LogBlueprintUserMessages: [PlasmaBolt_C_42] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.27:316][ 87]LogBlueprintUserMessages: [PlasmaBolt_C_44] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.02.27:381][ 93]LogBlueprintUserMessages: [PlasmaBolt_C_43] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.02.27:470][101]LogBlueprintUserMessages: [PlasmaBolt_C_45] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.02.27:782][129]LogBlueprintUserMessages: [PlasmaBolt_C_46] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.02.27:882][138]LogBlueprintUserMessages: [PlasmaBolt_C_47] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.02.28:106][158]LogBlueprintUserMessages: [PlasmaBolt_C_48] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.02.28:394][184]LogBlueprintUserMessages: [PlasmaBolt_C_49] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-17.02.29:348][270]LogBlueprintUserMessages: [PlasmaBolt_C_50] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.29:581][291]LogBlueprintUserMessages: [PlasmaBolt_C_51] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.29:782][309]LogBlueprintUserMessages: [PlasmaBolt_C_52] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.30:016][330]LogBlueprintUserMessages: [PlasmaBolt_C_53] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.30:238][350]LogBlueprintUserMessages: [PlasmaBolt_C_54] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.30:471][371]LogBlueprintUserMessages: [PlasmaBolt_C_55] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.30:760][397]LogBlueprintUserMessages: [PlasmaBolt_C_56] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.31:049][423]LogBlueprintUserMessages: [PlasmaBolt_C_57] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.31:328][448]LogBlueprintUserMessages: [PlasmaBolt_C_58] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.31:707][482]LogBlueprintUserMessages: [PlasmaBolt_C_59] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.32:116][519]LogBlueprintUserMessages: [PlasmaBolt_C_60] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.32:438][548]LogBlueprintUserMessages: [PlasmaBolt_C_62] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-17.02.32:460][550]LogBlueprintUserMessages: [PlasmaBolt_C_61] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.32:505][554]LogBlueprintUserMessages: [PlasmaBolt_C_63] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.02.39:816][212]LogBlueprintUserMessages: [PlasmaBolt_C_65] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.02.39:883][218]LogBlueprintUserMessages: [PlasmaBolt_C_64] Cube5.StaticMeshComponent0 Cube
+[2019.04.21-17.02.39:971][226]LogBlueprintUserMessages: [PlasmaBolt_C_66] Cube4.StaticMeshComponent0 Cube
+[2019.04.21-17.02.40:371][262]LogBlueprintUserMessages: [PlasmaBolt_C_67] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.02.40:583][281]LogBlueprintUserMessages: [PlasmaBolt_C_68] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.02.41:160][333]LogBlueprintUserMessages: [PlasmaBolt_C_69] Cube6.StaticMeshComponent0 Cube
+[2019.04.21-17.02.41:416][356]LogBlueprintUserMessages: [PlasmaBolt_C_70] Cube5.StaticMeshComponent0 Cube
+[2019.04.21-17.02.41:738][385]LogBlueprintUserMessages: [PlasmaBolt_C_71] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.41:927][402]LogBlueprintUserMessages: [PlasmaBolt_C_72] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.42:116][419]LogBlueprintUserMessages: [PlasmaBolt_C_73] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.42:293][435]LogBlueprintUserMessages: [PlasmaBolt_C_74] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.42:493][453]LogBlueprintUserMessages: [PlasmaBolt_C_75] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.42:682][470]LogBlueprintUserMessages: [PlasmaBolt_C_76] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.42:862][486]LogBlueprintUserMessages: [PlasmaBolt_C_77] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.43:072][505]LogBlueprintUserMessages: [PlasmaBolt_C_78] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.43:171][514]LogBlueprintUserMessages: [PlasmaBolt_C_79] Cube5.StaticMeshComponent0 Cube
+[2019.04.21-17.02.43:449][539]LogBlueprintUserMessages: [PlasmaBolt_C_80] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.43:639][556]LogBlueprintUserMessages: [PlasmaBolt_C_81] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.43:838][574]LogBlueprintUserMessages: [PlasmaBolt_C_82] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.44:027][591]LogBlueprintUserMessages: [PlasmaBolt_C_83] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.44:227][609]LogBlueprintUserMessages: [PlasmaBolt_C_84] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.44:449][629]LogBlueprintUserMessages: [PlasmaBolt_C_85] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.44:648][647]LogBlueprintUserMessages: [PlasmaBolt_C_86] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.44:672][649]LogBlueprintUserMessages: [PlasmaBolt_C_88] Cube3.StaticMeshComponent0 Cube
+[2019.04.21-17.02.44:849][665]LogBlueprintUserMessages: [PlasmaBolt_C_87] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.45:281][704]LogBlueprintUserMessages: [PlasmaBolt_C_89] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.45:471][721]LogBlueprintUserMessages: [PlasmaBolt_C_90] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.45:627][735]LogBlueprintUserMessages: [PlasmaBolt_C_91] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.45:815][752]LogBlueprintUserMessages: [PlasmaBolt_C_92] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.45:983][767]LogBlueprintUserMessages: [PlasmaBolt_C_93] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.46:160][783]LogBlueprintUserMessages: [PlasmaBolt_C_94] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.46:338][799]LogBlueprintUserMessages: [PlasmaBolt_C_95] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.46:517][815]LogBlueprintUserMessages: [PlasmaBolt_C_96] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.46:706][832]LogBlueprintUserMessages: [PlasmaBolt_C_97] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.46:884][848]LogBlueprintUserMessages: [PlasmaBolt_C_98] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.47:083][866]LogBlueprintUserMessages: [PlasmaBolt_C_99] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.47:304][886]LogBlueprintUserMessages: [PlasmaBolt_C_100] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.47:494][903]LogBlueprintUserMessages: [PlasmaBolt_C_101] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.47:683][920]LogBlueprintUserMessages: [PlasmaBolt_C_102] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.47:895][939]LogBlueprintUserMessages: [PlasmaBolt_C_103] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.48:084][956]LogBlueprintUserMessages: [PlasmaBolt_C_104] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.48:251][971]LogBlueprintUserMessages: [PlasmaBolt_C_105] Cube7.StaticMeshComponent0 Cube
+[2019.04.21-17.02.53:945][483]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.02.54:019][483]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-17.02.54:107][483]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.21-17.02.54:138][483]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.21-17.02.54:138][483]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.02.54:221][484]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2019.04.21-17.02.54:222][484]LogEngine: Changing dynamic resolution state.
+[2019.04.21-17.03.19:530][643]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/MotionControllerMap_Auto1D8E4178848E689A43C2B73B21549B9C0.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Autosaves/Game/VirtualRealityBP/Maps/MotionControllerMap_Auto1.umap'
+[2019.04.21-17.03.19:534][643]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/VirtualRealityBP/Maps/MotionControllerMap' took 0.349
+[2019.04.21-17.03.19:534][643]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.349
+[2019.04.21-17.03.19:537][643]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Rifle/Rifle] ([1] browsable assets)...
+[2019.04.21-17.03.19:559][643]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Rifle/Rifle.Rifle]
+[2019.04.21-17.03.19:559][643]OBJ SavePackage: Finished generating thumbnails for package [/Game/Rifle/Rifle]
+[2019.04.21-17.03.19:559][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Autosaves/Game/Rifle/Rifle_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2019.04.21-17.03.19:790][643]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Rifle_Auto1C6E5CA424B0CEA4B499C3B80D5821CD2.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Autosaves/Game/Rifle/Rifle_Auto1.uasset'
+[2019.04.21-17.03.19:810][643]LogFileHelpers: Auto-saving content packages took 0.274
+[2019.04.21-17.03.37:785][992]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2019.04.21-17.03.37:981][992]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/Rifle30D4CF8A4EAD08C0546EE1B2570D2335.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2019.04.21-17.03.48:629][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Rifle/Rifle" FILE="../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset" SILENT=true
+[2019.04.21-17.03.48:817][863]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/RifleDFD4965643C2AD5B63A3E5A8D3922388.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/Rifle/Rifle.uasset'
+[2019.04.21-17.03.50:857][ 17]LogTemp: Repeating last play command: VR Preview
+[2019.04.21-17.03.50:887][ 17]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.03.50:887][ 17]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.04.21-17.03.50:887][ 17]LogHMD: Initializing OVRPlugin session
+[2019.04.21-17.03.50:929][ 17]PIE: New page: PIE session: MotionControllerMap (21 Apr 2019 19:03:50)
+[2019.04.21-17.03.50:930][ 17]LogPlayLevel: Creating play world package: /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap
+[2019.04.21-17.03.50:938][ 17]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007912s)
+[2019.04.21-17.03.50:938][ 17]LogAIModule: Creating AISystem for world MotionControllerMap
+[2019.04.21-17.03.50:939][ 17]LogPlayLevel: PIE: World Init took: (0.000876s)
+[2019.04.21-17.03.50:939][ 17]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap to /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap (0.009067s)
+[2019.04.21-17.03.51:000][ 17]LogInit: XAudio2 using 'Headphones (Rift Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.04.21-17.03.51:011][ 17]LogInit: FAudioDevice initialized.
+[2019.04.21-17.03.51:029][ 17]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-17.03.51:136][ 17]LogHMD: Allocating Oculus 2720 x 1600 rendertarget swapchain
+[2019.04.21-17.03.51:165][ 17]LogLoad: Game class is 'VRGameMode_C'
+[2019.04.21-17.03.51:171][ 17]LogWorld: Bringing World /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap.MotionControllerMap up for play (max tick rate 0) at 2019.04.21-18.03.51
+[2019.04.21-17.03.51:172][ 17]LogWorld: Bringing up level for play took: 0.005929
+[2019.04.21-17.03.51:184][ 17]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-17.03.51:184][ 17]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2019.04.21-17.03.51:184][ 17]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-17.03.51:187][ 17]LogHMD: SetSpectatorScreenMode(7).
+[2019.04.21-17.03.51:187][ 17]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2019.04.21-17.03.51:195][ 17]PIE: Play in editor start time for /Game/VirtualRealityBP/Maps/UEDPIE_0_MotionControllerMap 1.183
+[2019.04.21-17.03.51:195][ 17]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.03.51:197][ 17]LogEngine: Changing dynamic resolution state.
+[2019.04.21-17.03.51:248][ 17]LogRenderer: Releasing previous depth to switch default clear from depth: 0.000000 stencil: 0 to depth: 0.000000 stencil: 0
+[2019.04.21-17.03.51:248][ 17]LogHMD: Allocating Oculus 2720 x 1600 depth rendertarget swapchain
+[2019.04.21-17.03.52:231][ 77]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.03.52:307][ 77]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.04.21-17.03.52:381][ 77]LogSlate: Window 'RifleProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.04.21-17.03.52:425][ 77]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.04.21-17.03.52:425][ 77]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel' has LevelScriptBlueprint '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap' with GeneratedClass '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap_C' with ClassGeneratedBy '/Game/VirtualRealityBP/Maps/MotionControllerMap.MotionControllerMap:PersistentLevel.MotionControllerMap'
+[2019.04.21-17.03.52:542][ 78]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2019.04.21-17.03.52:542][ 78]LogEngine: Changing dynamic resolution state.
+[2019.04.21-17.05.22:719][  4]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/MotionControllerMap8F224C1A4BDC47E4A286229BE2DC4239.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/VirtualRealityBP/Maps/MotionControllerMap.umap'
+[2019.04.21-17.05.22:839][  4]LogSavePackage: Moving '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Saved/MotionControllerMap_BuiltData9DCAA7F74E1F0228225046A0887E6687.tmp' to '../../../../../../Users/James/Documents/Unreal Projects/RifleProject/Content/VirtualRealityBP/Maps/MotionControllerMap_BuiltData.uasset'
+[2019.04.21-17.08.12:809][555]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Rifle/Grip.Grip
+[2019.04.21-17.08.43:917][155]LogUObjectBase: Warning: Object is not registered
+[2019.04.21-17.08.44:274][155]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.357 s
+[2019.04.21-17.08.44:274][155]LogOutputDevice: Error: === Handled ensure: ===
+[2019.04.21-17.08.44:274][155]LogOutputDevice: Error: 
+[2019.04.21-17.08.44:274][155]LogOutputDevice: Error: Ensure condition failed: false [File:D:\Build\++UE4\Sync\Engine\Source\Editor\UnrealEd\Private\Kismet2\KismetDebugUtilities.cpp] [Line: 1142]
+[2019.04.21-17.08.44:274][155]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.04.21-17.08.44:274][155]LogOutputDevice: Error: Stack: 
+[2019.04.21-17.08.44:274][155]LogOutputDevice: Error: [Callstack] 0x00007ffb0d2d71f6 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.21-17.08.44:274][155]LogOutputDevice: Error: [Callstack] 0x00007ffb0d010c92 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb0d02b356 UE4Editor-Core.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb087711db UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb0878060e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb06ffda7a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb0608ec2a UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb0604f337 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb09658204 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb0989e933 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb096b281a UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb09688190 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb0967b073 UE4Editor-Slate.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb50acd007 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb50ac0270 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb50acf4c5 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb50abc209 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb76056d41 USER32.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb76056713 USER32.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb50ad0646 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ff6fa7154e5 UE4Editor.exe!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ff6fa725b3c UE4Editor.exe!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ff6fa725bba UE4Editor.exe!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ff6fa733dac UE4Editor.exe!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ff6fa735aaa UE4Editor.exe!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb78974034 KERNEL32.DLL!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: [Callstack] 0x00007ffb78c23691 ntdll.dll!UnknownFunction []
+[2019.04.21-17.08.44:275][155]LogOutputDevice: Error: 
+[2019.04.21-17.08.44:277][155]LogStats:                SubmitErrorReport -  0.000 s
